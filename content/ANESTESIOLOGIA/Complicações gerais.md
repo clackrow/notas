@@ -1,0 +1,205 @@
+# Complicações gerais:
+
+## Embolia gordurosa e implantação de cimento:
+
+- EMBOLIA GORDUROSA:
+    - FR:
+        - Fratura;
+        - Fresagem;
+        - Pressurização.
+    - Quase sempre subclínica (70%);
+    - Fisiopatologia:
+        - Obstrução mecânica pulmonar;
+        - 24 a 72h após evento traumático;
+        - Gordura metabolizada em ácidos graxos e fazem inflamação → SIRS e edema;
+        - Inflamação → agregação plaquetária.
+    - Clínica:
+        - TRÍADE CLÁSSICA:
+            - Petéquias em conjuntivas (33%):
+                - É o sinal mais específico, já foi sinal patognomônico.
+            - Hipoxemia (90%);
+            - Neuro — confusão (66%).
+        - Febre;
+        - Plaquetopenia por consumo;
+        - Anemia e coagulopatia;
+        - Retinopatia de Purtscher;
+        - Lipidúria;
+        - Gasometria;
+        - Instabilidade hemodinâmica;
+        - RM encéfalo com padrão STARFIELD.
+    - Fatores protetores:
+        - Redução e fixação precoce;
+        - Orifício de ventilação.
+    - Tto:
+        - Suporte;
+        - Cuidar com volume — edema pulmonar;
+        - Mortalidade = 5 a 10%.
+- IMPLANTAÇÃO DE CIMENTO:
+    - Antigamento achávamos que eram efeitos tóxicos do metacrilato — descartado;
+    - É provável que tenha superposição com sd de embolia gordurosa;
+    - Na dúvida, suspeite de embolia gordurosa;
+    - TTo:
+        - Lavagem do canal medular;
+        - Suporte.
+    - Provavelmente é só gordura mesmo, metacrilato circulante é pequeno;
+    - Tem petéquias, é embolia;
+    - A não ser que tenha muito claro que é cimento na questão, marque embolia gordurosa.
+
+## Hipertermia maligna:
+
+- Cai bastante em prova;
+- Fisiologia da contração muscular:
+    - Miofibrila:
+        - Mitocôndria e túbulos T;
+        - Retículo sarcoplasmático.
+    - Fibras de actina:
+        - Troponinas T, C e I (complexo de troponinas);
+    - Miosina:
+        - Depende do ATP e do cálcio para ligar na actina.
+    - Cálcio vem do retículo e ATP da mitocôndria;
+    - Célula despolariza por influxo de sódio na membrana (sarcolema);
+        - Túbulos T com DHP, ligado no Ry R1 que fazem a libreação do cálcio do retículo.
+    - Relaxamento também é ativo:
+        - Bomba cerca:
+            - Usa ATP e devolve Ca para o retículo.
+    - Quando o Ry R1 fica maluco, libera todo o cálcio:
+        - HIPERTERMIA MALIGNA.
+        - Dantrolene fecha essa merda.
+- Doença farmacogenética, autossômica dominante, ligada ao cromossomo 19;
+    - Deixa o Ry R1 aberto quando pcte é exposto a alguns estímulos.
+- Desencadeantes:
+    - Inalatórios halogenados;
+    - BNM despolarizante.
+- Clínica:
+    - Hipermetabolismo muscular.
+- Dx:
+    - Hipercapnia importante (50 a 70mmHg);
+    - Rigidez localizada;
+    - Hipertensão;
+    - Acidose mista por aumento de lactato;
+    - Aumento de temperatura (termômetro central);
+    - Rabdomiólise com liberação de K+ e mioglobina;
+    - Arritmias e IRA.
+- Tto:
+    - Dantrolene + Suporte;
+    - Chamar ajuda;
+    - Converter para TIVA (relação com halogenados);
+    - Dantrolene é antagonista do RyR1:
+        - 2,5 mg/kg;
+        - Não resolveu, repete até 4x.
+    - FiO2 a 100% a 10L por min;
+    - T > 39 graus C, resfriamento ativo do paciente até 38 graus;
+    - SVD → manter diurese entre 2 a 3 ml por Kg por h:
+        - Proteção renal.
+    - Bicarbonato 1 a 2 mEq/kg.
+    - NÃO USAR BLOQUEADOR DE CANAL DE CÁLCIO para tratar arritmia;
+    - Mínimo de 24 horas em UTI, com dantrolene em 0,25 mg/kg/h;
+    - Pode recidivar!
+- Orientação familiar:
+    - Confirmação do diagnóstico do quadro:
+        - Teste de contratura com Cafeína + Halotano confirma caso:
+            - Após 3 meses do episódio para não ter falsos negativos;
+                - Dar o tempo para recuperar músculo.
+            - Até 5h da coleta da amostra;
+            - Paciente mínimo de 20kg e 5 anos:
+                - Se for criança menor, testa os pais e faz painel genético.
+        - Painel genético;
+    - Orientar paciente e familiares para futuras anestesias.
+- Futuros procedimentos:
+    - Seguindo o protocolo, chance é muito pequena;
+    - Anestesia sem desencadeantes:
+        - Halogenados;
+        - BNM despolarizante.
+    - Cuidados com carrinho:
+        - Tirar o vaporizador do carrinho;
+        - Trocar o circuito do carrinho;
+        - Trocar o canister e a cal sodada;
+        - Bolsa nova;
+        - Manter fluxo alto (10L por min) durante todo ato anestésico;
+        - Filtro de carvão (1 em cada via).
+    - Pegadinha:
+        - Pode sim fazer anestesia ambulatorial (em tese);
+        - Não existe Dantrolene profilático.
+    - Deixar carrinho de emergência na sala.
+- Doenças relacionadas:
+    - Distrofia de Becker e Duchenne;
+    - Doença de núcleo central;
+    - King-Denborough;
+    - Miotonia congênita;
+    - Distrofia mitônica;
+    - Distrofia muscular;
+    - Paralisia periódica familiar;
+    - Rabdomiólise por esforço;
+    - Miopatia multiminicore;
+    - Miopatia niemalínica.
+- Diagnósticos diferenciais:
+    - Hipercapnia, taquicardia, rigidez localizada, aumento de temperatura — muito inespecíficas;
+    - Escala de Larach — de zero a 50:
+        - Rigidez;
+        - Destruição;
+        - CO2;
+        - Ph e BE;
+        - Temperatura;
+        - Coração;
+        - Dantrolene.
+    - Para bater martelo, só com teste de contratura;
+    - Anestesia superficial, hipoventilação, aquecimento;
+    - Febre:
+        - Bacteremia, alergia, reação transfusional;
+    - Cx:
+        - Absorção de Co2.
+    - Drogas:
+        - Serotonina;
+        - Dopamina;
+        - Estimulantes.
+    - Endócrino:
+        - Feo, tireoide.
+    - Muscular:
+        - Rabdo.
+
+## Síndrome neuroléptica maligna:
+
+- Anti-psicóticos de primeira geração:
+    - Haldol;
+    - Flufenazina;
+    - Olanzapina.
+- Anti eméticos:
+    - Metoclopramida, prometazina.
+- Dopaminérgicos:
+    - Retirada abrupta.
+- Dx:
+    - Delirium;
+    - Rigidez generalizada;
+    - Taquicardia;
+    - Hipertensão.
+- Tto:
+    - Voltar dopaminérgico, retirar lítio, anticolinérgicos, serotonina.
+    - Suporte intensivo.
+    - Benzo;
+    - Dantrolene também ajuda;
+    - Dopamina em último caso:
+        - Bromocriptina (agonista dopa).
+    - Última medida = ECT.
+
+## Síndrome serotoninérgica:
+
+- ISRS, IMAO;
+- Já usa algo e vc faz mais algo;
+- Aumentam liberação de serotonina:
+    - Anfetaminas;
+    - Meperidina, ondansetrona;
+    - Fentanil, triptanos;
+    - Lítio.
+- Estado mental:
+    - Agitação, clônus ocular.
+- Hiperrreflexia, hipertermia.
+- Tto:
+    - Retirar causa;
+    - Suporte intensivo, geralmente menos grave que SNM;
+    - Antídoto = Ciproheptadina;
+    - Benzo meljora agitação;
+    - NÃO FAZER BROMOCRIPTINA;
+    - NÃO AJUDA DANTROLENE;
+    - Evitar betabloq
+
+![image.png](ANESTESIOLOGIA/IMGS/Complicações-gerais/image.png)
