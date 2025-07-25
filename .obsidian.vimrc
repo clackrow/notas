@@ -3,10 +3,13 @@ nmap j gj
 nmap k gk
 imap jk <Esc>
 imap kj <Esc>
+
+imap ]] |
 " I like using H and L for beginning/end of line
 nmap H ^
 nmap L $
 " Quickly remove search highlights
+
 nmap <F9> :nohl<CR>
 
 " Yank to system clipboard
