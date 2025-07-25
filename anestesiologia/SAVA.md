@@ -86,13 +86,13 @@ title: Resumo do SAVA 2025
 8. Investigação das causas:
     - 5Hs e 5Ts:
 
-    | 5H          | 5T          |
+    | 5H              | 5T               |
     | ----------- | ----------- |
-    | hipóxia     | TEP         |
+    | hipóxia       | TEP            |
     | hipovolemia | pneumoTórax |
     | acidose     | IAM         |
-    | hipercalemia| toxinas     |
-    | hipotermia  | tamponamento|
+    | hipercalemia | toxinas     |
+    | hipotermia  | tamponamento |
 
 
 ## Aspectos importantes:
@@ -121,4 +121,5 @@ title: Resumo do SAVA 2025
 - Glicemia entre 144 e 180mg/dL
 - Hipotermia permissiva (32 a 36 graus celcius)
 - Considerar BIS/EEG
+
 

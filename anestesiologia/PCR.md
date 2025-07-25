@@ -175,9 +175,9 @@
 
 ## Revisão do algoritmo:
 
-![image.png](ANESTESIOLOGIA/IMGS/PCR/image.png)
+![image.png](anestesiologia/attachments/imgs/PCR/image.png)
 
-![image.png](ANESTESIOLOGIA/IMGS/PCR/image%201.png)
+![image.png](anestesiologia/attachments/imgs/PCR/image%201.png)
 
 ## ACLS parte 2:
 
@@ -194,7 +194,7 @@
     - Indicado para causas reversíveis (hipotermia, intoxicações).
 - Padrões:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/PCR/image%202.png)
+    ![image.png](anestesiologia/attachments/imgs/PCR/image%202.png)
     
     - TV polimorfica:
         - Isquemia!!
@@ -311,4 +311,4 @@
         - Respira:
             - Vigiar e aguardar ajuda
 
-![image.png](ANESTESIOLOGIA/IMGS/PCR/image%203.png)
+![image.png](anestesiologia/attachments/imgs/PCR/image%203.png)

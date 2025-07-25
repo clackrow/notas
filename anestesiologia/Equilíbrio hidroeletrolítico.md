@@ -1,10 +1,8 @@
-# Equilíbrio hidroeletrolítico:
-
 ## Osmolaridade:
 
 - Definição:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Equilíbrio-hidroeletrolítico/image.png)
+    ![image.png](anestesiologia/attachments/imgs/Equilíbrio-hidroeletrolítico/image.png)
     
     - Propriedade de cada solução;
     - Gradiente que puxa água para a solução;
@@ -101,7 +99,7 @@
     - Repor água livre;
     - Cálculo de déficit de água livre:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Equilíbrio-hidroeletrolítico/image%201.png)
+        ![image.png](anestesiologia/attachments/imgs/Equilíbrio-hidroeletrolítico/image%201.png)
         
     - Correção também de no máximo 10 mEq/L/dia;
     - Correção rápida pode fazer edema cerebral.
@@ -153,9 +151,9 @@
     - Extrassístoles, FA, flutter, torsades, TV, FV;
     - ECG:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Equilíbrio-hidroeletrolítico/image%202.png)
+        ![image.png](anestesiologia/attachments/imgs/Equilíbrio-hidroeletrolítico/image%202.png)
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Equilíbrio-hidroeletrolítico/image%203.png)
+        ![image.png](anestesiologia/attachments/imgs/Equilíbrio-hidroeletrolítico/image%203.png)
         
         - Onda T achatada;
         - Infra de ST;
@@ -176,11 +174,11 @@
     - Fraqueza, paralisia, alteração de condução cardíaca;
     - ECG:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Equilíbrio-hidroeletrolítico/image%204.png)
+        ![image.png](anestesiologia/attachments/imgs/Equilíbrio-hidroeletrolítico/image%204.png)
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Equilíbrio-hidroeletrolítico/image%205.png)
+        ![image.png](anestesiologia/attachments/imgs/Equilíbrio-hidroeletrolítico/image%205.png)
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Equilíbrio-hidroeletrolítico/image%206.png)
+        ![image.png](anestesiologia/attachments/imgs/Equilíbrio-hidroeletrolítico/image%206.png)
         
         - Onda T apiculada (em tenda);
         - Redução do intervalo QT;

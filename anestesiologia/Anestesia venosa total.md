@@ -1,4 +1,4 @@
-# Anestesia-venosa-total:
+
 
 ## Introdução:
 
@@ -35,7 +35,7 @@
 
 - Modelo de 3 compartimentos:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Anestesia-venosa-total/image.png)
+    ![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image.png)
     
     - Cuidado:
         - São meramente representações matemáticas da fisiologia;
@@ -63,24 +63,24 @@
         - VDPE do fentanil = 75L;
         - 3ng/ml = dose / 75k ml;
             
-            ![image.png](ANESTESIOLOGIA/IMGS/Anestesia-venosa-total/image%201.png)
+            ![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image%201.png)
             
 - Interações farmacodinâmicas:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Anestesia-venosa-total/image%202.png)
+    ![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image%202.png)
     
     - Opioides tem interação sinérgica (supra aditiva) com a maioria dos hipnóticos;
         - Exceto cetamina (geralmente aditiva)
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Anestesia-venosa-total/image%203.png)
+    ![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image%203.png)
     
 - Gráficos de superfície:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Anestesia-venosa-total/image%204.png)
+    ![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image%204.png)
     
     - Macete para esse gráfico:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Anestesia-venosa-total/image%205.png)
+        ![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image%205.png)
         
 
 ## TCI:
@@ -91,12 +91,12 @@
         - Bolus, eliminação, transferência;
         - Eliminação = concentração * clearance;
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Anestesia-venosa-total/image%206.png)
+        ![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image%206.png)
         
     - Antigamente Marsh só calculava concentração plasmática;
     - Hoje Marsh leva em conta o efeito:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Anestesia-venosa-total/image%207.png)
+        ![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image%207.png)
         
 - Performance de erro:
     - Para saber se o modelo é bom;
@@ -120,15 +120,15 @@
             - K1zero (constante de eliminação) aumenta com peso e altura e reduz com massa magra.
     - Extremos de peso:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Anestesia-venosa-total/image%208.png)
+        ![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image%208.png)
         
         - Todos os modelos subestimam as concentrações de propofol em obesos;
         - Marsh e Schnider com peso ajustado tem MDAPE melhor que o Eleveld;
         - No desnutrido, Marsh superestima, Schnider subestima.
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Anestesia-venosa-total/image%209.png)
+        ![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image%209.png)
         
 
-![image.png](ANESTESIOLOGIA/IMGS/Anestesia-venosa-total/image%2010.png)
+![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image%2010.png)
 
 “NO IDOSO, SCHNIDER EFEITO É BACANA”

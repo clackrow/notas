@@ -16,7 +16,7 @@
             - Hipotensão sintomática;
             - Sofrimento fetal.
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Obstetrícia/image.png)
+        ![image.png](anestesiologia/attachments/imgs/Obstetrícia/image.png)
         
     - Lembrar:
         - PA = DC * RVS;
@@ -31,7 +31,7 @@
 - **Adaptações pulmonares:**
     - Lembrar dos 4 volumes e 4 capacidades:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Obstetrícia/image%201.png)
+        ![image.png](anestesiologia/attachments/imgs/Obstetrícia/image%201.png)
         
     - Na gestante:
         - Diminui CPT;
@@ -65,12 +65,12 @@
     - Tromboelastograma:
         - Lembrar do ROTEM normal:
             
-            ![image.png](ANESTESIOLOGIA/IMGS/Obstetrícia/image%202.png)
+            ![image.png](anestesiologia/attachments/imgs/Obstetrícia/image%202.png)
             
         - Na gestante:
             - Coágulo mais forte, cresce mais rápido e demora quebrar;
                 
-                ![image.png](ANESTESIOLOGIA/IMGS/Obstetrícia/image%203.png)
+                ![image.png](anestesiologia/attachments/imgs/Obstetrícia/image%203.png)
                 
 - **Adaptações renais:**
     - Aumento de volume plasmático e DC = aumento de FSR em 50%, TFG em 50% e aumento de clearance;
@@ -95,7 +95,7 @@
         - Depende de efeito BOHR;
         - Afinidade:
             
-            ![image.png](ANESTESIOLOGIA/IMGS/Obstetrícia/image%204.png)
+            ![image.png](anestesiologia/attachments/imgs/Obstetrícia/image%204.png)
             
             - Hb fetal tem maior afinidade por O2;
                 - P50 = 18 mmHg.
@@ -190,7 +190,7 @@
                 - Manutenção 1 a 2g/h em BIC.
                 - Níveis séricos:
                     
-                    ![image.png](ANESTESIOLOGIA/IMGS/Obstetrícia/image%205.png)
+                    ![image.png](anestesiologia/attachments/imgs/Obstetrícia/image%205.png)
                     
                     - Monitorar:
                         - Redução de DU.
@@ -199,7 +199,7 @@
                 - Antídoto:
                     - Gluconato de cálcio.
                     
-                    ![image.png](ANESTESIOLOGIA/IMGS/Obstetrícia/image%206.png)
+                    ![image.png](anestesiologia/attachments/imgs/Obstetrícia/image%206.png)
                     
 
 ## Trabalho de parto — peridural:

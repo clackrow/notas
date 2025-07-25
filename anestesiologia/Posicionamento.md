@@ -21,7 +21,7 @@
 - Tronco:
     - Suportes:
         
-        ![Untitled](ANESTESIOLOGIA/IMGS/Posicionamento/Untitled.png)
+        ![Untitled](anestesiologia/attachments/imgs/Posicionamento/Untitled.png)
         
 - Ventilação:
     - Zonas de West;
@@ -67,7 +67,7 @@
         - Melhor = ECO transesofágico;
         - Melhor não invasiva = Doppler TT;
             
-            ![Untitled](ANESTESIOLOGIA/IMGS/Posicionamento/Untitled%201.png)
+            ![Untitled](anestesiologia/attachments/imgs/Posicionamento/Untitled%201.png)
             
         - O dx por EtCO2, ECG ou oximetria são tardios.
     - TTO:
@@ -98,7 +98,7 @@
     - É a lesão de nervo mais comum dentre as lesões por posicionamento;
 - Deitar em cima do ombro = lesão de supraescapular:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Posicionamento/image.png)
+    ![image.png](anestesiologia/attachments/imgs/Posicionamento/image.png)
     
 - Alterações circulatórias da cadeira de praia:
     - Pressão de enchimento arterial diminui (cai RV dos MMII);
@@ -124,7 +124,7 @@
         - Perda de continuidade de fibras nervosas;
         - Geralmente não recupera.
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Posicionamento/image%201.png)
+        ![image.png](anestesiologia/attachments/imgs/Posicionamento/image%201.png)
         
 - Lesão por punção venosa = mediano;
 - Lesão de fibular comum:

@@ -1,10 +1,10 @@
 # Equipamentos
 
-![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled.png)
+![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled.png)
 
-![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%201.png)
+![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%201.png)
 
-![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%202.png)
+![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%202.png)
 
 ## PANI:
 
@@ -52,12 +52,12 @@
     - Sistema pouco amortecido (underdamping);
         - Superestima sistólica e subestima diastólica;
             
-            ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%203.png)
+            ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%203.png)
             
     - Sistema muito amortecido (overdamping):
         - Subestima sistólica e superestima diastólica.
             
-            ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%204.png)
+            ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%204.png)
             
 - Coeficiente de amortecimento:
     - Rapidez com que o sistema retorna ao repouso.
@@ -109,7 +109,7 @@
 - Beer lambert:
     - Espectrometria;
         
-        ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%205.png)
+        ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%205.png)
         
     - Mais confiável entre 70 a 100%;
     - Spo2 de 90 = paO2 de 60mmHg;
@@ -129,7 +129,7 @@
         - Não interfere muito.
 - Equação do gás alveolar:
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%206.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%206.png)
     
 
 ## Capnógrafo:
@@ -143,33 +143,33 @@
         - Melhor para crianças.
 - Análise de curva:
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%207.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%207.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%208.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%208.png)
     
 - Diagnósticos:
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%209.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%209.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2010.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%2010.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2011.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%2011.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2012.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%2012.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2013.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%2013.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2014.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%2014.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2015.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%2015.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2016.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%2016.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2017.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%2017.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2018.png)
+    ![Untitled](anestesiologia/attachments/imgs/Equipamentos/Untitled%2018.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2019.png)
+    ![Untitled](Untitled%2019.png)
     
 - Gradiente PaCO2 - EtCO2:
     - Toda EtCO2 subestima a PaCO2!!!!!!
@@ -181,7 +181,7 @@
     - Baixa frequência e alta amplitude;
     - Alta frequência e baixa amplitude.
         
-        ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2020.png)
+        ![Untitled](Untitled%2020.png)
         
 - Tipos de onda:
     - Delta (1 - 4 hz);
@@ -196,26 +196,26 @@
         - Hiperatividade e dissociação.
 - Padrões de EEG:
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2021.png)
+    ![Untitled](Untitled%2021.png)
     
 - Índice biespectral (BIS):
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2022.png)
+    ![Untitled](Untitled%2022.png)
     
 - Espectrograma:
     - Transforma o EEG em um esquema de cores:
     - Vermelho onde tem muita onda;
     - Azul pouca onda;
         
-        ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2023.png)
+        ![Untitled](Untitled%2023.png)
         
     - Padrões de cada droga:
         
-        ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2024.png)
+        ![Untitled](Untitled%2024.png)
         
-        ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2025.png)
+        ![Untitled](Untitled%2025.png)
         
-        ![Untitled](ANESTESIOLOGIA/IMGS/Equipamentos/Untitled%2026.png)
+        ![Untitled](Untitled%2026.png)
         
 
 ## Questões:
@@ -229,7 +229,7 @@
         - Double burst = 2x 50hz 0,7 seg.
     - Testes clínicos:
     
-    ![1000092116.png](ANESTESIOLOGIA/IMGS/Equipamentos/1000092116.png)
+    ![1000092116.png](1000092116.png)
     
 - Oxímetro:
     - Pode causar queimaduras e necrose;

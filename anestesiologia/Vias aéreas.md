@@ -4,7 +4,7 @@ Saber diferenciar preditores de VAD e ventilação por máscara difícil.
 
 ## Mallampati:
 
-![Untitled](ANESTESIOLOGIA/IMGS/Vias-aéreas/Untitled.png)
+![Untitled](anestesiologia/attachments/imgs/Vias-aéreas/Untitled.png)
 
 ## Preditores:
 
@@ -56,16 +56,16 @@ Saber diferenciar preditores de VAD e ventilação por máscara difícil.
 
 ## Anatomia:
 
-![Untitled](ANESTESIOLOGIA/IMGS/Vias-aéreas/Untitled%201.png)
+![Untitled](anestesiologia/attachments/imgs/Vias-aéreas/Untitled%201.png)
 
 - Reflexos:
     - Reflexo vômito = glossofaríngeo;
     - Reflexo de tosse = laringeo recorrente.
 - Laringe:
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Vias-aéreas/Untitled%202.png)
+    ![Untitled](anestesiologia/attachments/imgs/Vias-aéreas/Untitled%202.png)
     
-    ![Untitled](ANESTESIOLOGIA/IMGS/Vias-aéreas/Untitled%203.png)
+    ![Untitled](anestesiologia/attachments/imgs/Vias-aéreas/Untitled%203.png)
     
 - Lesões nervosas:
     - Laringeo recorrente:
@@ -106,9 +106,9 @@ Saber diferenciar preditores de VAD e ventilação por máscara difícil.
         - VA invasiva;
         - Nunca passar de 3 tentativas em cada opção.
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Vias-aéreas/image.png)
+        ![image.png](anestesiologia/attachments/imgs/Vias-aéreas/image.png)
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Vias-aéreas/image%201.png)
+        ![image.png](anestesiologia/attachments/imgs/Vias-aéreas/image%201.png)
         
 
 ## Sobre Máscaras Laríngeas:
@@ -120,11 +120,11 @@ Saber diferenciar preditores de VAD e ventilação por máscara difícil.
     - Baixa complacência;
     - Patologias em VA.
 
-![Untitled](ANESTESIOLOGIA/IMGS/Vias-aéreas/Untitled%204.png)
+![Untitled](anestesiologia/attachments/imgs/Vias-aéreas/Untitled%204.png)
 
 ## Anestesia da VA:
 
-![Untitled](ANESTESIOLOGIA/IMGS/Vias-aéreas/Untitled%205.png)
+![Untitled](anestesiologia/attachments/imgs/Vias-aéreas/Untitled%205.png)
 
 - Anestesia do glossofaríngeo:
     - Base da língua até superfície anterior da epiglote;
@@ -132,7 +132,7 @@ Saber diferenciar preditores de VAD e ventilação por máscara difícil.
     - Referências = amígdala e pilar anterior;
     
 
-![Untitled](ANESTESIOLOGIA/IMGS/Vias-aéreas/Untitled%206.png)
+![Untitled](anestesiologia/attachments/imgs/Vias-aéreas/Untitled%206.png)
 
 - Anestesia do laringeo superior (ramo interno):
     - Base da língua até pregas vocais;
@@ -141,7 +141,7 @@ Saber diferenciar preditores de VAD e ventilação por máscara difícil.
     - Referência = corno superior do hióide;
     
 
-![Untitled](ANESTESIOLOGIA/IMGS/Vias-aéreas/Untitled%207.png)
+![Untitled](anestesiologia/attachments/imgs/Vias-aéreas/Untitled%207.png)
 
 - Laringeo recorrente;
     - Reflexo de tosse;
@@ -150,7 +150,7 @@ Saber diferenciar preditores de VAD e ventilação por máscara difícil.
     - A tosse termina de espalhar o anestésico.
     
 
-![Untitled](ANESTESIOLOGIA/IMGS/Vias-aéreas/Untitled%208.png)
+![Untitled](anestesiologia/attachments/imgs/Vias-aéreas/Untitled%208.png)
 
 - IOT acordado:
     - **Glossofaríngeo:** Anestesia
@@ -226,22 +226,22 @@ Saber diferenciar preditores de VAD e ventilação por máscara difícil.
     - Ingestão de substâncias cáusticas e presença de reflexos laríngeos.
     
 
-![image.png](ANESTESIOLOGIA/IMGS/Vias-aéreas/image%202.png)
+![image.png](anestesiologia/attachments/imgs/Vias-aéreas/image%202.png)
 
 - Ventilação e IOT difícil:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Vias-aéreas/image%203.png)
+    ![image.png](anestesiologia/attachments/imgs/Vias-aéreas/image%203.png)
     
 - Em gestante, as alterações de via aérea iniciam já no primeiro trimestre;
 - Pressão máxima de máscara laríngea = 60 cmH2O;
 - Videolaringoscópio dispensa mobilização cervical agressiva, pois dispensa o alinhamento dos planos → bom para colar cervical ou fraturas;
 - USG de laringe:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Vias-aéreas/image%204.png)
+    ![image.png](anestesiologia/attachments/imgs/Vias-aéreas/image%204.png)
     
 
-![image.png](ANESTESIOLOGIA/IMGS/Vias-aéreas/image%205.png)
+![image.png](anestesiologia/attachments/imgs/Vias-aéreas/image%205.png)
 
-![image.png](ANESTESIOLOGIA/IMGS/Vias-aéreas/image.png)
+![image.png](anestesiologia/attachments/imgs/Vias-aéreas/image.png)
 
-![image.png](ANESTESIOLOGIA/IMGS/Vias-aéreas/image%206.png)
+![image.png](anestesiologia/attachments/imgs/Vias-aéreas/image%206.png)
