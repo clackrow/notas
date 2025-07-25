@@ -108,3 +108,4 @@
 | Grande sertão, veredas                           | Guimarães Rosa      | April 21, 2025     | 6    |
 | A cabeça do santo<br>                            | Socorro Alcioli     | May 2, 2025        | 8    |
 | Onde os velhos não têm vez                       | Cormac McCarthy     | June 17, 2025      | 10   |
+|                                                  |                     |                    |      |
