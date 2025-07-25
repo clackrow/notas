@@ -147,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "3d3277cf905a53e7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +178,8 @@
   },
   "active": "d4cd17e41859ac46",
   "lastOpenFiles": [
-    "anestesiologia/Anestesia venosa total.md",
     "anestesiologia/SAVA.md",
+    "anestesiologia/Anestesia venosa total.md",
     "anestesiologia/attachments/Pasted image 20250725111355.png",
     "anestesiologia/attachments/Pasted image 20250725111500.png",
     "Untitled",
