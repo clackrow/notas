@@ -120,6 +120,5 @@ title: Resumo do SAVA 2025
 - Normocapnia
 - Glicemia entre 144 e 180mg/dL
 - Hipotermia permissiva (32 a 36 graus celcius)
-- Considerar BIS/EEG
 
-Hey bro
+hello from fedora
