@@ -122,4 +122,4 @@ title: Resumo do SAVA 2025
 - Hipotermia permissiva (32 a 36 graus celcius)
 - Considerar BIS/EEG
 
-
+Hey bro
