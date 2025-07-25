@@ -122,3 +122,4 @@ title: Resumo do SAVA 2025
 - Hipotermia permissiva (32 a 36 graus celcius)
 
 MAN I WANT THIS TO WORK SO BAD
+I think i got pull working for tablet
