@@ -124,3 +124,4 @@ title: Resumo do SAVA 2025
 MAN I WANT THIS TO WORK SO BAD
 I think i got pull working for tablet
 yes, im testing it out now
+Now will it make the opposite way?
