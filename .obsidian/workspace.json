@@ -11,14 +11,14 @@
             "id": "d4cd17e41859ac46",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "anestesiologia/SAVA.md",
-                "bFile": "anestesiologia/SAVA.md",
-                "aRef": ""
+                "file": "anestesiologia/SAVA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: SAVA"
+              "icon": "lucide-file",
+              "title": "SAVA"
             }
           }
         ]
