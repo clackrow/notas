@@ -397,4 +397,6 @@ title: Resumo do SAVA 2025
 	- Circulation:
 		- PAM > 65mmHg
 		- Fazer ECG e considerar CAT coronariano S/N
-	- 
+	- D - Neurológico:
+		- Neuroproteção = temperatura entre 32 e 36 graus por 24h
+		- Solicitar EEG
