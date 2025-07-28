@@ -407,5 +407,5 @@ title: Resumo do SAVA 2025
 # Arritmias cardíacas:
 ## Avaliação inicial:
 - Considerações sobre ECG:
-	- Quadradinho = 40ms
-	- Quadradão = 200ms
+	- Quadradinho = 40ms x 0,1mV
+	- Quadradão = 200ms x 5
