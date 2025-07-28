@@ -1,7 +1,6 @@
 ---
 title: Resumo do SAVA 2025
 ---
-
 # SBV:
 - Primeira e principal etapa do atendimento de PCR
 - Cadeia de sobrevivência:
@@ -487,3 +486,23 @@ title: Resumo do SAVA 2025
 			- Adenosina se monomórfica e regular
 			- Amiodarona
 			- Chamar especialista
+
+## Bradiarritmias:
+- Sinusal:
+	- Onda p positiva em DI, DII e aVF, FC < 60bpm
+- BAV:
+	- Intervalo PR longo (>200ms)
+	- Classificação:
+		- Primeiro grau:
+			- Intervalo PR longo isoladamente
+		- Segundo grau:
+			- Mobitz I:
+				- Aumento progressivo do PR até bloqueio.
+			- Mobitz II:
+				- Bloqueio aleatório, sem aumento progressivo do PR.
+		- Terceiro grau:
+			- Onda P e QRS em frequências diferentes.
+- TTO:
+	- Instabilidade:
+		- Atropina 1 mg a cada 3 a 5 min, máx de 3mg
+		- Se atropina ineficaz, Adrenalina (2 a 10mcg/min) e MP transcutâneo
