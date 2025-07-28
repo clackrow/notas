@@ -440,4 +440,7 @@ title: Resumo do SAVA 2025
 			- Torsades
 - ### Taquicardias de QRS estreito:
 	- Taqui sinusal:
-		- FC > 100bpm com ondas p positivas em DI, DII
+		- FC > 100bpm com ondas p positivas em DI, DII e aVF
+		- Geralmente não passa de 150bpm.
+	- Taqui supra:
+		- Por reentrada nodal:
