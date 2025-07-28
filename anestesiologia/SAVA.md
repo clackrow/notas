@@ -373,3 +373,6 @@ title: Resumo do SAVA 2025
 - Lesão cerebral anóxica + disfunção miocárdica pós ressuscitação + lesão isquemia-reperfusão sistêmica
 - 90 a 180 min até retorno para metabolismo aeróbico
 - SIRS
+- DMPR + inflamação = hipotensão
+- Fases da Síndrome Pós PCR (SPPCR):
+	- Imediata (primeiros )
