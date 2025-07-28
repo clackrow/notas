@@ -479,8 +479,10 @@ title: Resumo do SAVA 2025
 	- Instável = choque (independente do QRS)
 	- Estáveis:
 		- Atriais:
-			- Manobra vagal (valsalva) -> Adenosina -> Controle de FC (bbloq ou bcca)
-			- Dose Adenosina = 6mg em flush, seguida de 12mg, seguida de 18mg
+			- Regular = manobra vagal -> adenosina (6/12/18mg) -> Controle de FC -> CVE
+			- Irregular = ECG -> controle de FC:
+				- Não cardiopata = bbloq ou bcca
+				- Cardiopata = Digoxina ou Amiodarona
 		- Ventriculares:
 			- Adenosina se monomórfica e regular
 			- Amiodarona
