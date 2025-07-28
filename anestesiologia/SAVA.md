@@ -394,4 +394,7 @@ title: Resumo do SAVA 2025
 		- Evitar hipoxemia
 		- FiO2 92 a 98%
 		- PaCO2 entre 35 e 45mmHg
+	- Circulation:
+		- PAM > 65mmHg
+		- Fazer ECG e considerar CAT coronariano S/N
 	- 
