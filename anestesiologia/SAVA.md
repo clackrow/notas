@@ -400,3 +400,6 @@ title: Resumo do SAVA 2025
 	- D - Neurológico:
 		- Neuroproteção = temperatura entre 32 e 36 graus por 24h
 		- Solicitar EEG
+		- Convulsões = Fenitoína, Valproato ou Levetiracetam
+	- E - Cuidados gerais:
+		- 8H e 8Ts
