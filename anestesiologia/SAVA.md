@@ -389,4 +389,9 @@ title: Resumo do SAVA 2025
 - Suporte hemodinâmico para compensar vasodilatação e baixo DC
 - ABCDE:
 	- Airway:
-		- Tubo nro
+		- Tubo normoposicionado
+	- Breathing:
+		- Evitar hipoxemia
+		- FiO2 92 a 98%
+		- PaCO2 entre 35 e 45mmHg
+	- 
