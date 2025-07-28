@@ -365,4 +365,11 @@ title: Resumo do SAVA 2025
 	- Infecções/sepse
 	- Complicações de aborto
 	- Embolias (inclusive de líquido amniótico)
-- 
+
+# Cuidados pós PCR:
+- Mortalidade primeiros 30 dias de até 70%
+
+## Síndrome pós PCR:
+- Lesão cerebral anóxica + disfunção miocárdica pós ressuscitação + lesão isquemia-reperfusão sistêmica
+- 90 a 180 min até retorno para metabolismo aeróbico
+- SIRS
