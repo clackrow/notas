@@ -419,4 +419,10 @@ title: Resumo do SAVA 2025
 		- sST não pode desnivelar > 1mm
 
 ## Taquiarritmias:
-- 
+- QRS:
+	- Estreito:
+		- RR regular:
+			- Flutter
+			- Taqui sinusal
+			- TSVP
+			- Taqui 
