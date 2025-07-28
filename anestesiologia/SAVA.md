@@ -375,4 +375,9 @@ title: Resumo do SAVA 2025
 - SIRS
 - DMPR + inflamação = hipotensão
 - Fases da Síndrome Pós PCR (SPPCR):
-	- Imediata (primeiros )
+	- Imediata (primeiros 20 min):
+		- Intervenções realizadas durante RCP ainda presentes
+	- Precoce (20 min até 12h):
+		- Momento ideal para intervenções
+	- Intermediária (12 a 72h):
+		- Ainda pode ocorrer l
