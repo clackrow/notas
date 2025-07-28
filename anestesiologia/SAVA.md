@@ -318,3 +318,50 @@ title: Resumo do SAVA 2025
 	- Adrenalina = 10 mcg/kg
 	- Amiodarona = 5mg/kg
 	- Lidocaína = 1mg/kg
+
+## Arritmias em PED:
+1. Bradicardia:
+	- Geralmente secundária à hipóxia, acidose ou hipensão
+	- Bradi com sinais de instabilidade e refratárias à terapêutica inicial = RCP
+- Taquicardia:
+	- Instável:
+		- QRS estreito = taqui supra:
+			- Adenosina se acesso IV ou IO
+			- Cardioversão sincronizada se não tiver acesso IV ou IO
+		- QRS largo = TV:
+			- Cardioversão sincronizada
+	- Estável:
+		- QRS estreito:
+			- Sinusal -> tratar causa
+			- Taqui supra:
+				- Manobras vagais
+				- Adenosina se IV ou IO
+				- Cardioversão se não IV ou IO
+		- QRS largo = TV:
+			- Adenosina se monomórfico e regular
+
+# RCP na gestante:
+
+## Prevenção de PCR:
+- Decúbito lateral esquerdo
+- O2 100%
+- Acesso venoso acima do diafragma
+- Mobilização de equipe multi
+- Esforços iniciais centrados na mãe
+- Determinar viabilidade fetal:
+	- > 20 semanas (fundo uterino na cicatriz umbilical)
+- RCP é igual, com algumas considerações:
+	- Deslocamento uterino para esquerda (DUE)
+	- Equipe multi
+	- Acesso venoso acima do diafragma
+	- Manejo mais agressivo de VA
+	- Considerar cesárea perimortem
+	- Tratamento de causas reversíveis
+	- Mínimo 4 socorristas
+- Principais etiologias:
+	- Hemorragia
+	- Síndromes hipertensivas (eclâmpsia, HELLP, hemorragia intracraniana)
+	- Infecções/sepse
+	- Complicações de aborto
+	- Embolias (inclusive de líquido amniótico)
+- 
