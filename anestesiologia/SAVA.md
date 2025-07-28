@@ -355,7 +355,8 @@ title: Resumo do SAVA 2025
 	- Equipe multi
 	- Acesso venoso acima do diafragma
 	- Manejo mais agressivo de VA
-	- Considerar cesárea perimortem
+	- Considerar cesárea perimortem:
+		- Indicada se 4 min de RCP sem RCE
 	- Tratamento de causas reversíveis
 	- Mínimo 4 socorristas
 - Principais etiologias:
