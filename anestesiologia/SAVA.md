@@ -385,4 +385,5 @@ title: Resumo do SAVA 2025
 		- Danos já definidos
 		- Estabelecer prognóstico e reabilitação
 
-## Manejo p
+## Manejo pós PCR:
+- Suporte hemodinâmico para compensar vasodilatação e baixo DC
