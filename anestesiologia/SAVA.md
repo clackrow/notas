@@ -387,3 +387,6 @@ title: Resumo do SAVA 2025
 
 ## Manejo pós PCR:
 - Suporte hemodinâmico para compensar vasodilatação e baixo DC
+- ABCDE:
+	- Airway:
+		- Tubo nro
