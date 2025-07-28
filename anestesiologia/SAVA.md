@@ -86,13 +86,13 @@ title: Resumo do SAVA 2025
 8. Investigação das causas:
     - 5Hs e 5Ts:
 
-    | 5H              | 5T               |
-    | ----------- | ----------- |
-    | hipóxia       | TEP            |
-    | hipovolemia | pneumoTórax |
-    | acidose     | IAM         |
-    | hipercalemia | toxinas     |
-    | hipotermia  | tamponamento |
+| 5H           | 5T           |
+| ------------ | ------------ |
+| hipóxia      | TEP          |
+| hipovolemia  | pneumoTórax  |
+| acidose      | IAM          |
+| hipercalemia | toxinas      |
+| hipotermia   | tamponamento |
 
 
 ## Aspectos importantes:
@@ -120,4 +120,27 @@ title: Resumo do SAVA 2025
 - Normocapnia
 - Glicemia entre 144 e 180mg/dL
 - Hipotermia permissiva (32 a 36 graus celcius)
+
+# PCR em anestesia:
+- 8H e 8T
+
+| 8H                  | 8T                   |
+| ------------------- | -------------------- |
+| hipóxia             | tensão no tórax      |
+| hipo/hipercalemia   | tamponamento         |
+| hipovolemia         | toxinas              |
+| hipotermia          | tep                  |
+| H+ (acidose)        | trombose coronariana |
+| hipervagal          | qT longo             |
+| hipertermia maligna | hipertensão pulmonar |
+| hipoglicemia        | trauma               |
+## PCR em raquianestesia:
+- Bloqueios simpáticos pré ganglionares
+- Evento mais comum = hipotensão
+	- HAS, hipovolemia, obesidade, idade > 40 anos, sarcopênicos
+- ### Bloqueio alto:
+	- Bloqueio acima de T4 -> fibras cardioaceleradoras -> hipotensão + bradicardia
+	- Sintomas = dispneia, dormência ou fraqueza de MMSS
+	- IOT + VM + trendelenburg + vasopressor + reposição volêmica + atropina + adrena (sn)
+	- 
 
