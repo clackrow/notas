@@ -403,3 +403,5 @@ title: Resumo do SAVA 2025
 		- Convulsões = Fenitoína, Valproato ou Levetiracetam
 	- E - Cuidados gerais:
 		- 8H e 8Ts
+
+# Arritmias cardíacas:
