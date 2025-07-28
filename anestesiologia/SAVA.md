@@ -211,6 +211,38 @@ title: Resumo do SAVA 2025
 		- Aspirar antes de injetar
 		- Diluições com Adrenalina -> aumento da FC -> não injeção
 		- Uso de peso ideal para cálculo de dose
-	- Diante de qualquer sinal de ISAL -> controle precoce de VA
+	- Algoritmo:
+		1. Interromper injeção
+		2. Pedir ajuda
+			- Considerar emulsão lipídica
+			- Avisar equipe de CEC
+		3. Ventilar com O2 100%:
+			- IOT se necessário
+		4. Garantir acesso venoso
+		5. Controle de convulsões:
+			- Benzo
+			- Evitar altas doses de propofol por instabilidade hemodinâmica
+		6. RCP:
+			- ACLS = dose usual de adrena (1mg)
+			- ASRA = doses de adrena reduzidas <= 1mg
+		7. Emulsão lipídica:
+			- Pacientes > 70kg:
+				- Bolus de 100ml de EL 20%
+				- BIC 250ml em 15 a 20min
+			- Pacientes < 70kg:
+				- 1,5 ml/kg
+				- BIC de 0,25 ml/kg/min (peso ideal)
+			- Mantém instabilidade:
+				- Repetir até 2x mesma dose do bolus inicial
+				- Dobrar a dose da BIC (0,5 ml/kg/min)
+			- Dose limite = 12 ml/kg
+			- Evitar:
+				- Vasopressina
+				- Bloqueadores de canal de cálcio
+				- Betabloq
+				- Mais AL
+			- Desligar BIC após 10 min de estabilidade hemodinâmica
+- Redução de risco:
+	- 
 
 
