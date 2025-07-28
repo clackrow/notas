@@ -444,3 +444,6 @@ title: Resumo do SAVA 2025
 		- Geralmente não passa de 150bpm.
 	- Taqui supra:
 		- Por reentrada nodal:
+			- Reentrada do nó AV
+			- Ondas p retrógradas
+			- Bem parecido com flutter IMO
