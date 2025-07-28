@@ -138,9 +138,79 @@ title: Resumo do SAVA 2025
 - Bloqueios simpáticos pré ganglionares
 - Evento mais comum = hipotensão
 	- HAS, hipovolemia, obesidade, idade > 40 anos, sarcopênicos
+- Bloqueio simpático pode exceder o sensitivo de 2 a 6 dermátomos
 - ### Bloqueio alto:
 	- Bloqueio acima de T4 -> fibras cardioaceleradoras -> hipotensão + bradicardia
 	- Sintomas = dispneia, dormência ou fraqueza de MMSS
 	- IOT + VM + trendelenburg + vasopressor + reposição volêmica + atropina + adrena (sn)
-	- 
+- Fatores de risco para bradicardia:
+	- FC < 50bpm em repouso
+	- ASA 1
+	- Betabloqueados
+	- Bloqueio sensorial acima de T6
+	- Idade < 50
+	- Intervalo PR prolongado
+
+## Anafilaxia:
+- Classificação de Ring e Messmer:
+	1. Sinais mucocutâneos sem instabilidade hemodinâmica ou sintomas respiratórios
+	2. Inclui hipotensão e taquicardia (sem risco à vida) e sintomas respiratórios (tosse, dispneia, ...)
+	3. Manifestações que colocam a vida em risco: taquicardia ou bradicardia intensas, choque, bronco ou laringoespasmo, estridor
+	4. PCR
+- BNM > látex > ATB > coloides > opioides > hipnóticos
+- Sempre lembrar do látex
+- TTO depende da classificação:
+	- Classe 1:
+		- O2 100%
+		- Elevar MMII
+		- Cristaloides 10 a 30ml/kg
+		- Difenidramina 0,5 a 1mg/kg + Ranitidina 50mg EV
+		- Hidrocortisona 250mg ou Metilprednisolona 80mg
+	- Classe 2:
+		- Todas acima + Adrenalina 10 a 20 mcg a cada 1 a 2 min
+	- Classe 3:
+		- Adrenalina 100 a 200mcg a cada 1 a 2 min
+	- Classe 4:
+		- Protocolo PCR
+- Observações sobre o TTO:
+	- Prioridade é adrenalina, as outras medicações não podem atrasá-la
+	- Adrena pode ser em BIC (0,1 mcg/kg/min)
+	- Corticoide e antihistamínicos não alteram desfecho
+	- SABA pode ser usado para TTO de broncoespasmo em grau 2
+	- Considerar via aérea avançada se grau > 2
+
+## Intoxicação por AL:
+- Mais comum = bupivacaína > ropi > levobupi
+- Bloqueio mais associado = interescalênico > peridural > peniano
+- Fatores de risco:
+	- Extremos de idade (< 16 e > 60a)
+	- Sarcopenia
+	- Mulheres
+	- ASA >= 2
+	- Doenças hepáticas e metabólicas
+	- Baixas proteínas plasmáticas
+- Sintomas:
+	- Sinais subjetivos de excitação de SNC:
+		- Gosto metálico na boca
+		- Amortecimento de língua e lábios
+		- Sintomas psiquiátricos
+		- Agitação, tontura
+		- Alterações visuais e auditivas
+		- Convulsões, perda da consciência, delirium, parada respiratória
+		- Sinais de toxicidade cardíaca:
+			- Hipertensão, taquicardia
+			- Arritmias ventriculares
+			- Bradicardia
+			- Bloqueios de condução
+			- Assistolia
+			- Hipotensão
+- TTO:
+	- Melhor que tratamento é prevenção:
+		- USG reduz ISAL em 60 a 65%
+		- Doses fracionadas de 3 a 5ml com pausas de 30 a 45 segundos entre injeções
+		- Aspirar antes de injetar
+		- Diluições com Adrenalina -> aumento da FC -> não injeção
+		- Uso de peso ideal para cálculo de dose
+	- Diante de qualquer sinal de ISAL -> controle precoce de VA
+
 
