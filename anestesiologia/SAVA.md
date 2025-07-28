@@ -425,4 +425,15 @@ title: Resumo do SAVA 2025
 			- Flutter
 			- Taqui sinusal
 			- TSVP
-			- Taqui 
+			- Taqui atrial focal
+			- Taqui juncional
+		- RR irregular:
+			- FA
+			- Flutter + BAV
+			- Taqui atrial multifocal
+	- Largo:
+		- RR regular:
+			- TV monomórfica
+			- TSV com condução aberrante
+		- RR irregular:
+			- TV p
