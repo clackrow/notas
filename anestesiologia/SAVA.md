@@ -419,7 +419,7 @@ title: Resumo do SAVA 2025
 		- sST não pode desnivelar > 1mm
 
 ## Taquiarritmias:
-- **Classificação pelo QRS:
+- **Resumo da classificação:
 	- Estreito:
 		- RR regular:
 			- Flutter
@@ -438,14 +438,50 @@ title: Resumo do SAVA 2025
 		- RR irregular:
 			- TV polimórfica
 			- Torsades
-- ### Taquicardias de QRS estreito:
-	- Taqui sinusal:
-		- FC > 100bpm com ondas p positivas em DI, DII e aVF
-		- Geralmente não passa de 150bpm.
-	- Taqui supra:
-		- Por reentrada nodal:
-			- Reentrada do nó AV
-			- Ondas p retrógradas
-			- Bem parecido com flutter IMO
-		- Reentrada AV:
-			- 
+- ### Classificação:
+	- QRS estreito (atriais):
+		- RR regular:
+			- Taqui sinusal:
+				- FC > 100bpm com ondas p positivas em DI, DII e aVF
+				- Geralmente não passa de 150bpm.
+			- Taqui supra:
+				- Por reentrada nodal:
+					- Reentrada do nó AV
+					- Ondas p retrógradas
+					- Bem parecido com flutter IMO
+				- Reentrada AV (WPW): 
+					- PR curto, ondas delta por retardo de início de QRS e QRS alargado
+			- Flutter:
+				- Ondas dentilhadas
+				- Controle da FC é primeira escolha, seguido de cardioversão elétrica sincronizada
+			- Taqui atrial focal:
+				- Ondas p similares à sinusal, mas de difícil localização
+		- RR irregular:
+			- Fibrilação atrial:
+				- Ritmo irregular, sem onda P, duração > 30s
+				- Casos agudos (< 48h) = cardioversão elétrica:
+					- Alguns autores já consideram < 12h
+			- Taqui multifocal:
+				- Pelo menos 3 morfologias distintas de onda P
+			- Flutter com BAV variável
+				- Só pra mostrar que flutter pode ser irregular também
+	- Taquicardias de QRS alargado (ventriculares):
+		- Classificação:
+			- Sustentada (> 30s) ou não sustentada
+			- Monomórfica (mantém morfologia do QRS) ou polimórfica
+- ### Tratamentos:
+	- Depende da estabilidade hemodinâmica
+	- Critérios de instabilidade:
+		- Hipotensão
+		- Dor torácica
+		- Dispneia
+		- Perda de consciência
+	- Instável = choque (independente do QRS)
+	- Estáveis:
+		- Atriais:
+			- Manobra vagal (valsalva) -> Adenosina -> Controle de FC (bbloq ou bcca)
+			- Dose Adenosina = 6mg em flush, seguida de 12mg, seguida de 18mg
+		- Ventriculares:
+			- Adenosina se monomórfica e regular
+			- Amiodarona
+			- Chamar especialista
