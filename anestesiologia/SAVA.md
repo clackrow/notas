@@ -408,4 +408,7 @@ title: Resumo do SAVA 2025
 ## Avaliação inicial:
 - Considerações sobre ECG:
 	- Quadradinho = 40ms x 0,1mV
-	- Quadradão = 200ms x 5
+	- Quadradão = 200ms x 0,5mV
+	- Valores normais:
+		- P = até 120ms x 2,5mm
+		
