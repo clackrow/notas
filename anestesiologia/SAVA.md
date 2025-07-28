@@ -380,4 +380,9 @@ title: Resumo do SAVA 2025
 	- Precoce (20 min até 12h):
 		- Momento ideal para intervenções
 	- Intermediária (12 a 72h):
-		- Ainda pode ocorrer l
+		- Ainda pode ocorrer lesão, ainda cabem intervenções
+	- Tardia (> 72h):
+		- Danos já definidos
+		- Estabelecer prognóstico e reabilitação
+
+## Manejo p
