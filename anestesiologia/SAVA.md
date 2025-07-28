@@ -417,3 +417,6 @@ title: Resumo do SAVA 2025
 		- iQT < 440ms em homens < 460ms em mulheres
 		- sPR não pode desnivelar > 0,5mm
 		- sST não pode desnivelar > 1mm
+
+## Taquiarritmias:
+- 
