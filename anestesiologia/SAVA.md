@@ -438,4 +438,6 @@ title: Resumo do SAVA 2025
 		- RR irregular:
 			- TV polimórfica
 			- Torsades
--  
+- ### Taquicardias de QRS estreito:
+	- Taqui sinusal:
+		- FC > 100bpm com ondas p positivas em DI, DII
