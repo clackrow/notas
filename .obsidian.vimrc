@@ -14,6 +14,7 @@ nmap <F9> :nohl<CR>
 
 " Yank to system clipboard
 set clipboard=unnamed
+set scrolloff=8
 
 " Go back and forward with Ctrl+O and Ctrl+I
 " (make sure to remove default Obsidian shortcuts for these to work)
