@@ -242,7 +242,79 @@ title: Resumo do SAVA 2025
 				- Betabloq
 				- Mais AL
 			- Desligar BIC após 10 min de estabilidade hemodinâmica
-- Redução de risco:
-	- 
 
+## Hipertermia maligna:
+- Doença farmacogenética do receptor de Rianodina (RyR1) e canais de cálcio voltagem dependentes (CACNA1S)
+- Liberação desenfreada de cálcio -> quadro hipermetabólico
+- Agentes desencadeantes:
+	- Succinilcolina
+	- Halogenados
+- Não desencadeiam:
+	- BNM não despolarizantes
+	- N2O
+	- Ansiolíticos
+	- AL
+- Dx diferencial:
+	- Sepse com peritonite
+	- Anafilaxia
+	- Plano anestésico inadequado
+	- Mau funcionamento de equipamento de anestesia
+	- Tireotoxicose, feo, IAM
+	- Síndrome serotoninérgica
+- TTO:
+	- Medidas gerais:
+		- Pedir ajuda
+		- Solicitar desfibrilador
+	- Dantrolene:
+		- 2,5 mg/kg de 10 em 10min até controle
+	- Ventilação:
+		- Retirar vaporizador
+		- O2 100%
+		- Fluxo de gás fresco de 10 a 15ml/min
+	- Suporte:
+		- Hidratação
+		- Furosemida S/N
+		- Resfriamento até 38 graus
+		- Antiarrítmicos
+	- Acidose:
+		- Ventilação
+		- Bicarbonato de sódio 1 a 2 mEq/kg
+	- Hipercalemia:
+		- Gluconato de cálcio 30ml/kg ou cloreto de cálcio 10mg/kg
+	- PCR:
+		- Algoritmo de PCR
 
+# RCP em pediatria:
+
+## Condutas pré PCR:
+- Na maioria das vezes, não é repentina
+- Notar sinais de alerta e intervir com antecedência
+
+## Condutas durante PCR:
+- Verificar pulso e respiração:
+	- Pulso + respiração = posição de recuperação
+	- Pulso - respiração = controle de VA
+	- -Pulso - respiração = RCP imediata
+		- Evento não testemunhado:
+			- 1 socorrista = RCP 2 min antes de ajuda
+			- 2 socorristas = RCP + ajuda/DEA
+		- Testemunhado:
+			- Acionar ajuda durante deterioração clínica, dps RCP
+
+## Suporte avançado de vida:
+- Acesso venoso + VAA
+- Considerações:
+	- VAA = IOT ou DSG
+	- 20 a 30 ventilações por minuto não sincronizadas com as CTs
+	- Evitar hiperventilação
+	- FiO2 100%
+	- Capnografia = parâmetro de qualidade
+- Choques:
+	- 2J/kg no primeiro choque
+	- 4J/kg nos subsequentes
+	- Limite 10J/kg
+- Lembrar dos 8H e 8T
+- Doses:
+	- Adrenalina = 10 mcg/kg
+	- Amiodarona = 5mg/kg
+	- Lidocaína = 1mg/kg
