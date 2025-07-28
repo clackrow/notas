@@ -121,7 +121,3 @@ title: Resumo do SAVA 2025
 - Glicemia entre 144 e 180mg/dL
 - Hipotermia permissiva (32 a 36 graus celcius)
 
-MAN I WANT THIS TO WORK SO BAD
-I think i got pull working for tablet
-yes, im testing it out now
-Now will it make the opposite way?
