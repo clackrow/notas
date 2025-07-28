@@ -405,3 +405,7 @@ title: Resumo do SAVA 2025
 		- 8H e 8Ts
 
 # Arritmias cardíacas:
+## Avaliação inicial:
+- Considerações sobre ECG:
+	- Quadradinho = 40ms
+	- Quadradão = 200ms
