@@ -447,3 +447,5 @@ title: Resumo do SAVA 2025
 			- Reentrada do nó AV
 			- Ondas p retrógradas
 			- Bem parecido com flutter IMO
+		- Reentrada AV:
+			- 
