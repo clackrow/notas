@@ -419,7 +419,7 @@ title: Resumo do SAVA 2025
 		- sST não pode desnivelar > 1mm
 
 ## Taquiarritmias:
-- QRS:
+- **Classificação pelo QRS:
 	- Estreito:
 		- RR regular:
 			- Flutter
@@ -436,4 +436,6 @@ title: Resumo do SAVA 2025
 			- TV monomórfica
 			- TSV com condução aberrante
 		- RR irregular:
-			- TV p
+			- TV polimórfica
+			- Torsades
+-  
