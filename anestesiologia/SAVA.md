@@ -411,4 +411,7 @@ title: Resumo do SAVA 2025
 	- Quadradão = 200ms x 0,5mV
 	- Valores normais:
 		- P = até 120ms x 2,5mm
-		
+		- QRS < 120ms
+		- T arredondada e assimétrica, sem duração
+		- iPR < 200ms
+		- iQT < 440ms em homens < 460ms em mulhe
