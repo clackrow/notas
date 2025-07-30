@@ -274,3 +274,4 @@ Pegadinha!! Pós carga está igual!! Temos que analisar o ÂNGULO!!!.
 - PH stat mantem o pH estático em 7,4, para isso, ele corrige o paCO2
 - O cardiomiócito utiliza ácidos graxos como principal fonte energética (70%)
 - Intoxicação por cianeto por nipride impede a fosforilação oxidativa e induz metabolismo anaeróbio. Aumenta SvO2 e faz taquifilaxia ao nipride.
+- A maior parte do enchimento ventricular esquerdo acontece de forma passiva, ou seja, sem contribuição da sístole atrial, somente pelo gradiente de 
