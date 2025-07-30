@@ -278,4 +278,6 @@ Pegadinha!! Pós carga está igual!! Temos que analisar o ÂNGULO!!!.
 - A primeira fase da diástole é o relaxamento isovolumétrico.
 - Troponina com a tropomiosina se ligam à actina e impedem a ligação da miosina
 - Na contração, o cálcio proveniente do influxo se liga ao complexo tropo/tropomiosina, que se solta da actina
-- Milrinona é um inibidor da fosfodiesterase III, que inibe a degradação do AMPc no coração, 
+- Milrinona é um inibidor da fosfodiesterase III, que inibe a degradação do AMPc no coração, que aumenta a disponibilidade de cálcio e melhora contratilidade
+- Adenosina aumenta a condutância do potássio, atua como um bloqueador AV, ou seja, geralmente não reverte raqui
+- 
