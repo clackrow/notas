@@ -276,3 +276,5 @@ Pegadinha!! Pós carga está igual!! Temos que analisar o ÂNGULO!!!.
 - Intoxicação por cianeto por nipride impede a fosforilação oxidativa e induz metabolismo anaeróbio. Aumenta SvO2 e faz taquifilaxia ao nipride.
 - A maior parte do enchimento ventricular esquerdo acontece de forma passiva, ou seja, sem contribuição da sístole atrial, somente pelo gradiente de pressão entre VE/AE.
 - A primeira fase da diástole é o relaxamento isovolumétrico.
+- Troponina com a tropomiosina se ligam à actina e impedem a ligação da miosina
+- Na contração, o cálcio proveniente do influxo se liga ao complexo tropo/tropomiosina, 
