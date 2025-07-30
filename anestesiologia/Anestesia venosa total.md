@@ -132,3 +132,4 @@
 ![image.png](anestesiologia/attachments/imgs/Anestesia-venosa-total/image%2010.png)
 
 “NO IDOSO, SCHNIDER EFEITO É BACANA”
+Oi som
