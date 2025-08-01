@@ -239,7 +239,21 @@ title: Resumo do SAVA 2025
 			- ASRA = doses de adrena reduzidas <= 1mg
 		7. Emulsão lipídica:
 			- Pacientes > 70kg: 
-			- Bolus de 100ml de EL 20% - BIC 250ml em 15 a 20min - Pacientes < 70kg: - 1,5 ml/kg - BIC de 0,25 ml/kg/min (peso ideal) - Mantém instabilidade: - Repetir até 2x mesma dose do bolus inicial - Dobrar a dose da BIC (0,5 ml/kg/min) - Dose limite = 12 ml/kg - Evitar: - Vasopressina - Bloqueadores de canal de cálcio - Betabloq - Mais AL - Desligar BIC após 10 min de estabilidade hemodinâmica
+			- Bolus de 100ml de EL 20%
+			- BIC 250ml em 15 a 20min 
+			- Pacientes < 70kg: 
+				- 1,5 ml/kg 
+				- BIC de 0,25 ml/kg/min (peso ideal)
+				- Mantém instabilidade:
+					- Repetir até 2x mesma dose do bolus inicial 
+					- Dobrar a dose da BIC (0,5 ml/kg/min)
+					- Dose limite = 12 ml/kg 
+				- Evitar:
+					- Vasopressina 
+					- Bloqueadores de canal de cálcio 
+					- Betabloq 
+					- Mais AL
+					- Desligar BIC após 10 min de estabilidade hemodinâmica
 
 ## Hipertermia maligna
 
