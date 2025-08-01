@@ -108,4 +108,5 @@
 | Grande sertão, veredas                           | Guimarães Rosa      | April 21, 2025     | 6    |
 | A cabeça do santo<br>                            | Socorro Alcioli     | May 2, 2025        | 8    |
 | Onde os velhos não têm vez                       | Cormac McCarthy     | June 17, 2025      | 10   |
-|                                                  |                     |                    |      |
+| O retrato de Dorian Grey                         | Oscar Wilde         | July 8,            |      |
+| Sem lugar para se esconder                       | Glenn Greenwald     | July 31, 2025      | 9    |
