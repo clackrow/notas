@@ -69,14 +69,18 @@ title: Resumo do SAVA 2025
 5. Fármacos:
     - Vasopressores:
         - Adrenalina:
+	        - Faz sempre, muda o momento de acordo com ritmo
+		        - Não chocavel na hora
+		        - Chocavel apos o 2 choque
             - Prioridade para ritmos não chocáveis
             - 1mg a cada 3 a 5 min (ciclo sim, ciclo não = 4 min)
             - Doses maiores não agregam benefício
     - Antiarrítmicos:
-        - Para ritmos chocáveis refratários (> 3 choques)
+        - Para ritmos chocáveis refratários (>= 3 choques)
+        - Terce
         - Segunda dose = 0.5 \* primeira dose
         - Amiodarona 300mg -> 150mg
-        - Lidocaína 1mg/kg -> 0.5mg/kg
+        - Lidocaína 1mg/kg -> 0.5mg/kg (não é segunda escolha, é equivalente)
 6. Via aérea avançada:
     - VAA não é superior a ventilação com máscara (a não ser nos casos de ventilação difícil)
     - Pode ser obtida com dispsitivo supraglótico
