@@ -55,6 +55,7 @@ title: Resumo do SAVA 2025
         - Usar gel nas pás
     - Pressão de 13 kg
     - AFASTA e tira fonte de O2
+    - Retorna RCP!!!! Não checa pulso
 4. Acesso IV ou IO:
     - IV:
         - Fármacos em bolus seguida de flush de 20ml + elevação de membro
@@ -77,10 +78,11 @@ title: Resumo do SAVA 2025
             - Doses maiores não agregam benefício
     - Antiarrítmicos:
         - Para ritmos chocáveis refratários (>= 3 choques)
-        - Terce
+        - Terceiro e quinto choque
         - Segunda dose = 0.5 \* primeira dose
         - Amiodarona 300mg -> 150mg
         - Lidocaína 1mg/kg -> 0.5mg/kg (não é segunda escolha, é equivalente)
+        - Magnésio se hipomag documentada, ou se torsades (dose)
 6. Via aérea avançada:
     - VAA não é superior a ventilação com máscara (a não ser nos casos de ventilação difícil)
     - Pode ser obtida com dispsitivo supraglótico
