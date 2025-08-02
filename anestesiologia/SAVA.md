@@ -53,6 +53,8 @@ title: Resumo do SAVA 2025
     - Recomendações práticas:
         - Desativar tecla de sincronização
         - Usar gel nas pás
+    - Pressão de 13 kg
+    - AFASTA e tira fonte de O2
 4. Acesso IV ou IO:
     - IV:
         - Fármacos em bolus seguida de flush de 20ml + elevação de membro
@@ -63,6 +65,7 @@ title: Resumo do SAVA 2025
     - Intratraqueal:
         - Absorção imprevisível
         - VALINA = Vasopressina, Atropina, Lidocaína, Naloxona, Adrenalina
+        - Doses dobradas em adultos, 10x em criança
 5. Fármacos:
     - Vasopressores:
         - Adrenalina:
@@ -78,6 +81,7 @@ title: Resumo do SAVA 2025
     - VAA não é superior a ventilação com máscara (a não ser nos casos de ventilação difícil)
     - Pode ser obtida com dispsitivo supraglótico
     - IOT caso o profissional tenha experiência
+    - VAA é diferente de definitiva
 7. Métricas de qualidade de RCP:
     - Capnografia:
         - Correlaciona-se com mortalidade
