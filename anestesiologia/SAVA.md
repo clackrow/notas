@@ -46,6 +46,7 @@ title: Resumo do SAVA 2025
 2. Fonte de O2:
     - 100% de O2
 3. Desfibrilador **manual**:
+	- Somente médico pode operar
     - Determina ritmo
     - Chocar caso FV ou TV sem pulso
     - Monofásico 360J, bifásico até 200J, não conhece = carga máxima
