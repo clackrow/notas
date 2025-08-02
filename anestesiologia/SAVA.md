@@ -432,17 +432,23 @@ title: Resumo do SAVA 2025
         - PAM > 65mmHg
         - Fazer ECG e considerar CAT coronariano S/N
     - D - Neurológico:
-        - Neuroproteção = temperatura entre 32 e 36 graus por 24h
+        - Neuroproteção = temperatura entre 32 e 36 graus por 24h (18h resfrtiando, 6h aquecendo)
         - Solicitar EEG
         - Convulsões = Fenitoína, Valproato ou Levetiracetam
     - E - Cuidados gerais:
         - 8H e 8Ts
-- evitar tremores
-- glic entre 144 e 180
-- k e MG
-- prevenção de convulsões
-- Prognóstico:
-	- 
+		- evitar tremores
+		- glic entre 144 e 180
+		- k e MG
+		- prevenção de convulsões
+- Prognóstico após 72h:
+	- Clínico
+	- Estudo neurofisiologia
+	- Biomarcadores
+	- Exames de imagem
+- Sinais ruína:
+	- Redução de relação cinza branco
+
 
 
 # Arritmias cardíacas
