@@ -444,7 +444,7 @@ title: Resumo do SAVA 2025
 
 ## Taquiarritmias
 
-- \*\*Resumo da classificação:
+- Resumo da classificação:
     - Estreito:
         - RR regular:
             - Flutter
