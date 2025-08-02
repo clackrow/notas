@@ -17,6 +17,7 @@ title: Resumo do SAVA 2025
         - Jaw thrust, chin lift
     - Breathing:
         - Elevação visível do tórax por 1 segundo
+        - Se VAA, FR de 10mrpm
 - Desfibrilação precoce:
     - Solicitar DEA imediatamente diante de PCR e instalar assim que chegar (independente do momento do ciclo)
 - Pediatria:
