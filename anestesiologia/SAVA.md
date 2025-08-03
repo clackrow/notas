@@ -373,7 +373,6 @@ title: Resumo do SAVA 2025
 # RCP na gestante
 
 ## Prevenção de PCR
-
 - Decúbito lateral esquerdo
 - O2 100%
 - Acesso venoso acima do diafragma
@@ -381,6 +380,7 @@ title: Resumo do SAVA 2025
 - Esforços iniciais centrados na mãe
 - Determinar viabilidade fetal:
     - > 20 semanas (fundo uterino na cicatriz umbilical)
+## RCP
 - RCP é igual, com algumas considerações:
     - Deslocamento uterino para esquerda (DUE)
     - Equipe multi
@@ -388,6 +388,7 @@ title: Resumo do SAVA 2025
     - Manejo mais agressivo de VA
     - Considerar cesárea perimortem:
         - Indicada se 4 min de RCP sem RCE
+        - Sempre no local da PCR
     - Tratamento de causas reversíveis
     - Mínimo 4 socorristas
 - Principais etiologias:
