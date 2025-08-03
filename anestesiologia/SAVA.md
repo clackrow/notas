@@ -6,10 +6,10 @@ title: Resumo do SAVA 2025
 
 - Primeira e principal etapa do atendimento de PCR
 - Cadeia de sobrevivência:
-	- Etapas desde reconhecimento até implementação dos cuidados pós PCR
-    - PCRIH e PCREH:
-        - EH depende da comunidade
-        - IH tem foco em prevenção
+    - Etapas desde reconhecimento até implementação dos cuidados pós PCR
+        - PCRIH e PCREH:
+            - EH depende da comunidade
+            - IH tem foco em prevenção
 - SBV = CAB:
     - Compression:
         - 100bpm, 30:2, 5 a 6cm
@@ -46,7 +46,7 @@ title: Resumo do SAVA 2025
 2. Fonte de O2:
     - 100% de O2
 3. Desfibrilador **manual**:
-	- Somente médico pode operar
+    - Somente médico pode operar
     - Determina ritmo
     - Chocar caso FV ou TV sem pulso
     - Monofásico 360J, bifásico até 200J, não conhece = carga máxima
@@ -70,9 +70,9 @@ title: Resumo do SAVA 2025
 5. Fármacos:
     - Vasopressores:
         - Adrenalina:
-	        - Faz sempre, muda o momento de acordo com ritmo
-		        - Não chocavel na hora
-		        - Chocavel apos o 2 choque
+            - Faz sempre, muda o momento de acordo com ritmo
+                - Não chocavel na hora
+                - Chocavel apos o 2 choque
             - Prioridade para ritmos não chocáveis
             - 1mg a cada 3 a 5 min (ciclo sim, ciclo não = 4 min)
             - Doses maiores não agregam benefício
@@ -235,37 +235,37 @@ title: Resumo do SAVA 2025
         - Aspirar antes de injetar
         - Diluições com Adrenalina -> aumento da FC -> não injeção
         - Uso de peso ideal para cálculo de dose
-    - Algoritmo: 
-	    1. Interromper injeção 
-	    2. Pedir ajuda 
-		    - Considerar emulsão lipídica 
-		    - Avisar equipe de CEC 
-		3. Ventilar com O2 100%: 
-			- IOT se necessário 
-		4. Garantir acesso venoso 
-		5. Controle de convulsões: 
-			- Benzo 
-			- Evitar altas doses de propofol por instabilidade hemodinâmica 
-		6. RCP: 
-			- ACLS = dose usual de adrena (1mg) 
-			- ASRA = doses de adrena reduzidas <= 1mg
-		7. Emulsão lipídica:
-			- Pacientes > 70kg: 
-			- Bolus de 100ml de EL 20%
-			- BIC 250ml em 15 a 20min 
-			- Pacientes < 70kg: 
-				- 1,5 ml/kg 
-				- BIC de 0,25 ml/kg/min (peso ideal)
-				- Mantém instabilidade:
-					- Repetir até 2x mesma dose do bolus inicial 
-					- Dobrar a dose da BIC (0,5 ml/kg/min)
-					- Dose limite = 12 ml/kg 
-				- Evitar:
-					- Vasopressina 
-					- Bloqueadores de canal de cálcio 
-					- Betabloq 
-					- Mais AL
-					- Desligar BIC após 10 min de estabilidade hemodinâmica
+    - Algoritmo:
+        1.  Interromper injeção
+        2.  Pedir ajuda
+            - Considerar emulsão lipídica
+            - Avisar equipe de CEC
+        3.  Ventilar com O2 100%:
+            - IOT se necessário
+        4.  Garantir acesso venoso
+        5.  Controle de convulsões:
+            - Benzo
+            - Evitar altas doses de propofol por instabilidade hemodinâmica
+        6.  RCP:
+            - ACLS = dose usual de adrena (1mg)
+            - ASRA = doses de adrena reduzidas <= 1mg
+        7.  Emulsão lipídica:
+            - Pacientes > 70kg:
+            - Bolus de 100ml de EL 20%
+            - BIC 250ml em 15 a 20min
+            - Pacientes < 70kg:
+                - 1,5 ml/kg
+                - BIC de 0,25 ml/kg/min (peso ideal)
+                - Mantém instabilidade:
+                    - Repetir até 2x mesma dose do bolus inicial
+                    - Dobrar a dose da BIC (0,5 ml/kg/min)
+                    - Dose limite = 12 ml/kg
+                - Evitar:
+                    - Vasopressina
+                    - Bloqueadores de canal de cálcio
+                    - Betabloq
+                    - Mais AL
+                    - Desligar BIC após 10 min de estabilidade hemodinâmica
 
 ## Hipertermia maligna
 
@@ -437,19 +437,17 @@ title: Resumo do SAVA 2025
         - Convulsões = Fenitoína, Valproato ou Levetiracetam
     - E - Cuidados gerais:
         - 8H e 8Ts
-		- evitar tremores
-		- glic entre 144 e 180
-		- k e MG
-		- prevenção de convulsões
+        - evitar tremores
+        - glic entre 144 e 180
+        - k e MG
+        - prevenção de convulsões
 - Prognóstico após 72h:
-	- Clínico
-	- Estudo neurofisiologia
-	- Biomarcadores
-	- Exames de imagem
+    - Clínico
+    - Estudo neurofisiologia
+    - Biomarcadores
+    - Exames de imagem
 - Sinais ruína:
-	- Redução de relação cinza branco
-
-
+    - Redução de relação cinza branco
 
 # Arritmias cardíacas
 
