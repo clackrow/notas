@@ -449,7 +449,15 @@ title: Resumo do SAVA 2025
 - Sinais ruína:
     - Redução de relação cinza branco
 
-# Arritmias cardíacas
+# Arritmias cardíacas:
+- Para todos, MOVEX:
+	- Monitor
+	- Oxigênio
+	- Veia
+	- Exames
+- Sinais de instabilidade:
+	- Sinais de baixo DC
+	- Tratar paciente, não ECG
 
 ## Avaliação inicial
 
@@ -527,6 +535,10 @@ title: Resumo do SAVA 2025
         - Dispneia
         - Perda de consciência
     - Instável = choque (independente do QRS)
+	    - Estreito reg CVE 100J
+	    - estreito irreg CVE 200J
+	    - alargado reg CVE 100J
+	    - alargado irregular ta morrendo desf 200J
     - Estáveis:
         - Atriais:
             - Regular = manobra vagal -> adenosina (6/12/18mg) -> Controle de FC -> CVE
@@ -547,6 +559,7 @@ title: Resumo do SAVA 2025
     - Classificação:
         - Primeiro grau:
             - Intervalo PR longo isoladamente
+
         - Segundo grau:
             - Mobitz I:
                 - Aumento progressivo do PR até bloqueio.
