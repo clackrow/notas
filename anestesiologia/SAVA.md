@@ -6,7 +6,7 @@ title: Resumo do SAVA 2025
 
 - Primeira e principal etapa do atendimento de PCR
 - Cadeia de sobrevivência:
-    - Etapas desde reconhecimento até implementação dos cuidados pós PCR
+	- Etapas desde reconhecimento até implementação dos cuidados pós PCR
     - PCRIH e PCREH:
         - EH depende da comunidade
         - IH tem foco em prevenção
