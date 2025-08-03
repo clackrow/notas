@@ -397,17 +397,6 @@ title: Resumo do SAVA 2025
     - Infecções/sepse
     - Complicações de aborto
     - Embolias (inclusive de líquido amniótico)
-## Via aérea
-
-```handdrawn-ink
-{
-	"versionAtEmbed": "0.3.4",
-	"filepath": "Ink/Drawing/2025.8.3 - 9.13am.drawing",
-	"width": 500,
-	"aspectRatio": 1
-}
-```
-
 
 # Cuidados pós PCR
 
