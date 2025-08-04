@@ -13,9 +13,8 @@ CASCAVEL/ PR
 CEP: 85812-010
 
 ## LISTA DE DOCUMENTOS:
-- [ ] CPF válido
-- [ ] Documento de identificação
-- [ ] Passaporte anterior ou Ocorrência
+- [x] CPF válido
+- [x] Documento de identificação
 - [ ] Estar regular com as obrigações eleitorais
 - [ ] Estar regular com o serviço militar obrigatório
 - [ ] Atenção: outros documentos poderão ser solicitados
