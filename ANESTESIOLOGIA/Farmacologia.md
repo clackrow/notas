@@ -7,14 +7,14 @@
 - Membrana plasmática:
     - Anfipática, anfifílica;
         
-        ![image.png](anestesiologia/attachments/imgs/Farmacologia/image.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image.png)
         
 - Formas de transporte:
     - Difusão simples:
         - Fármacos lipossolúveis, pequenos e apolares tem maior facilidade;
         - Lei de difusão de Fick:
             
-            ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%201.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%201.png)
             
         - Alguns fármacos tem ligação proteica e não atravessam membrana;
     - Difusão facilitada:
@@ -57,28 +57,28 @@
     - Definição = constante de acidez;
     - Quanto maior Ka, maior liberação de H+ (ácido mais forte);
         
-        ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%202.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%202.png)
         
 - pKa:
     - É o logarítmo negativo do Ka;
     - É o raciocínio inverso do Ka (maior Ka, mais fraco é o ácido).
         
-        ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%203.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%203.png)
         
-        ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%204.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%204.png)
         
     - pH = pKa + log(A-/AH+);
         
-        ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%205.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%205.png)
         
-        ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%206.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%206.png)
         
     - A fórmula original é a de cima;
     - Fazer as contas com base no pH e pKa:
         
-        ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%207.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%207.png)
         
-        ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%208.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%208.png)
         
 
 ## Ion trapping e barreira hematoencefálica:
@@ -139,7 +139,7 @@
         - Volume teórico no qual o medicamento precisa se distribuir para alcançar a concentração encontrada no plasma durante o equilíbrio;
         - vd = dose / [plasmática do fármaco];
             
-            ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%209.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%209.png)
             
         
 
@@ -201,7 +201,7 @@
     - Saturação do metabolismo;
     - Tiopental:
         
-        ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%2010.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%2010.png)
         
 
 ## Taxa de extração:
@@ -218,12 +218,12 @@
     - Tx de eliminação = quantidade do fármaco eliminada por minuto (mg/min);
     - A taxa de eliminação depende da concentração de medicamento, e varia com o tempo;
         
-        ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%2011.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%2011.png)
         
 - Clearance descreve a taxa de remoção do fármaco do sangue;
     - Quantidade de sangue que fica livre do medicamento a cada minuto (litros/min).
     
-    ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%2012.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%2012.png)
     
 - O clearance, apesar de constante (limpa litros por minuto), respeita a taxa de eliminação;
 - Exemplo:
@@ -244,7 +244,7 @@
     - Meia vida contexto sensível:
         - Tempo para concentração cair 50% depois da interrupção da infusão.
             
-            ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%2013.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%2013.png)
             
 
 ## Interação fármaco-receptor:
@@ -271,23 +271,23 @@
 - Eficácia vs potência:
     - Eficácia = capacidade de gerar resposta depois de ligado ao receptor.
         
-        ![Ambos são igualmente eficazes, mas têm potencias diferentes.](anestesiologia/attachments/imgs/Farmacologia/image%2014.png)
+        ![Ambos são igualmente eficazes, mas têm potencias diferentes.](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%2014.png)
         
         Ambos são igualmente eficazes, mas têm potencias diferentes.
         
     - Potência = quantidade de medicamento para produzir determinado efeito;
         - Medida de potência = C50 (capacidade para gerar 50% do efeito).
         
-        ![Todos têm mesma eficácia, mas potências diferentes.](anestesiologia/attachments/imgs/Farmacologia/image%2015.png)
+        ![Todos têm mesma eficácia, mas potências diferentes.](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%2015.png)
         
         Todos têm mesma eficácia, mas potências diferentes.
         
 - Exemplos:
     - Morfina é agonista total do receptor Mi, Nalbufina é parcial, juntos reduzem a eficácia um do outro.
     
-    ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%2016.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%2016.png)
     
-    ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%2017.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%2017.png)
     
 - Relação dose resposta na população:
     - DE50 = dose que gera efeito em 50% da população;
@@ -298,7 +298,7 @@
         - Diferente de IT;
         - É a faixa de concentração que situa-se entre Cp50 e Cp95.
             
-            ![image.png](anestesiologia/attachments/imgs/Farmacologia/image%2018.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Farmacologia/image%2018.png)
             
         
 

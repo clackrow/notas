@@ -57,13 +57,13 @@
             - Rapidez com que o sistema retorna ao repouso.
     - Teste da curva quadrada:
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image.png)
         
     - Amortecimento do sistema:
         - Overdamping:
             - Muito amortecido;
                 
-                ![image.png](anestesiologia/attachments/imgs/Monitorização/image%201.png)
+                ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%201.png)
                 
             - Subestima sistólica, superestima diastólica;
             - Causas:
@@ -71,7 +71,7 @@
         - Underdamping:
             - Pouco amortecido;
                 
-                ![image.png](anestesiologia/attachments/imgs/Monitorização/image%202.png)
+                ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%202.png)
                 
             - Under tem que pensar em mola muito bouncy, que oscila demais;
             - Como a mola oscila muito, acaba indo alto demais (superestima sistólica) e descendo baixo demais (subestima diastólica);
@@ -82,11 +82,11 @@
     - Consegue nos dizer complacência e volume sistólico;
     - Complacência:
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%203.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%203.png)
         
     - Pontos da curva:
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%204.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%204.png)
         
         - Aumento sistólico;
         - Pico sistólico;
@@ -105,7 +105,7 @@
         - Jovens tem artéria mais complacente;
         - Idoso faz curva semelhante a underdamping:
             
-            ![image.png](anestesiologia/attachments/imgs/Monitorização/image%205.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%205.png)
             
 - Ondas patológicas:
     - **Estenose aórtica:**
@@ -113,25 +113,25 @@
         - Amplitude pequena (sai pouco sangue);
         - Pulso parvus (pulso pequeno, de baixa amplutude) e tardus (lento);
             
-            ![image.png](anestesiologia/attachments/imgs/Monitorização/image%206.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%206.png)
             
     - **Regurgitação aórtica:**
         - Dois picos sistólicos
             
-            ![image.png](anestesiologia/attachments/imgs/Monitorização/image%207.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%207.png)
             
         - Pulso bisferiens;
         - Rabbit ear = regurgitação aórtica.
     - **Cardiomiopatia hipertrófica:**
         - Padrão spike and dome;
             
-            ![image.png](anestesiologia/attachments/imgs/Monitorização/image%208.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%208.png)
             
         - Deslocamento da valva mitral que interrompe o fluxo sanguíneo no meio da sístole.
     - **Pulsus alternans:**
         - Disfunção sistólica grave de VE;
             
-            ![image.png](anestesiologia/attachments/imgs/Monitorização/image%209.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%209.png)
             
     - **Pulso paradoxal:**
         - Exagero do que acontece de forma fisiológica;
@@ -160,7 +160,7 @@
     - AE enche na diástole, logo após onda P do ECG;
     - Ondas:
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2010.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2010.png)
         
         - Onda A:
             - Contração atrial;
@@ -181,36 +181,36 @@
             - Esvaziamento atrial;
             - Início da diástole.
             
-            ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2011.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2011.png)
             
         - Onda H:
             - Platô de pressão que PODE acontecer antes da onda A.
                 
-                ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2012.png)
+                ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2012.png)
                 
 - Ondas patológicas:
     - Fibrilação atrial:
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2013.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2013.png)
         
         - Não tem onda A!!! (que seria a curva de contração atrial);
         - Onda C passa a ser a mais proeminente.
     - Dissociação A-V:
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2014.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2014.png)
         
         - Onda A em canhão;
         - Contração contra uma tricúspide fechada.
     - Regurgitação tricúspide:
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2015.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2015.png)
         
         - Onda C e V altas;
         - Onda “ventricularizada”;
         - Sem onda A.
     - Estenose tricúspide:
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2016.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2016.png)
         
         - Onda A muito proeminente e apiculada;
         - Descenso Y atenuado.
@@ -221,9 +221,9 @@
     - Coeficiente de extinção de luz;
     - Diferencia o tecido pela variabilidade do sinal;
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2017.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2017.png)
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2018.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2018.png)
         
     - Números cabalísticos para decorar:
         - Mais confiável com SpO2 entre 70 a 100%;
@@ -254,7 +254,7 @@
     - O2 que chega = FiO2 * (P atm - P H2O);
     - O2 consumido = PaCO2 / 0.8
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2019.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2019.png)
         
 - Gradiente alvéolo arterial:
     - Ref = 10 mmHg;
@@ -273,13 +273,13 @@
             - Em criança pequena, pode ter impacto na ventilação.
 - Curvas:
     
-    ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2020.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2020.png)
     
 - Análises de curva;
     
-    ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2021.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2021.png)
     
-    ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2022.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2022.png)
     
 - Causas de redução:
     - Parou de chegar:
@@ -335,15 +335,15 @@
         - 100 = acordado.
     - Espectrograma:
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2023.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2023.png)
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2024.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2024.png)
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2025.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2025.png)
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2026.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2026.png)
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2027.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2027.png)
         
 
 ## NIRS, SjO2 e Doppler:
@@ -375,7 +375,7 @@
         - Tem gluxo diastólico;
         - Velocidade média normal (45 a 85 cm / s);
         
-        ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2028.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2028.png)
         
     - Estreitamento do vaso:
         - Fluxo sempre positivo, mas com pico muito alto e velocidade média alta;
@@ -387,4 +387,4 @@
         - Às vezes faz até fluxo negativo na diástole;
         - Evolui para morte encefálica
             
-            ![image.png](anestesiologia/attachments/imgs/Monitorização/image%2029.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Monitorização/image%2029.png)

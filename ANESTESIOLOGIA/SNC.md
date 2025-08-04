@@ -9,7 +9,7 @@
 
 ## Autorregulação cerebral:
 
-![Untitled](anestesiologia/attachments/imgs/SNC/Untitled.png)
+![Untitled](ANESTESIOLOGIA/attachments/imgs/SNC/Untitled.png)
 
 - Taxa metabólica cerebral:
     - 40% homeostase cerebral (não alterada por drogas);
@@ -22,9 +22,9 @@
 - Cetamina aumenta bastante o fluxo sanguíneo cerebral (melhor evitar em neuro);
 - Anestésicos inalatórios fazem vasodilatação cerebral direta (dose-dependente):
     
-    ![Untitled](anestesiologia/attachments/imgs/SNC/Untitled%201.png)
+    ![Untitled](ANESTESIOLOGIA/attachments/imgs/SNC/Untitled%201.png)
     
-    ![Untitled](anestesiologia/attachments/imgs/SNC/Untitled%202.png)
+    ![Untitled](ANESTESIOLOGIA/attachments/imgs/SNC/Untitled%202.png)
     
 
 ## Relação com CO2:
@@ -32,11 +32,11 @@
 - CO2 passa a BHE e aumenta liberação de prostraglandinas e NO;
 - Desvia a curva de fluxo para esquerda;
 
-![Untitled](anestesiologia/attachments/imgs/SNC/Untitled%203.png)
+![Untitled](ANESTESIOLOGIA/attachments/imgs/SNC/Untitled%203.png)
 
 ## Hipertensão intracraniana:
 
-![Untitled](anestesiologia/attachments/imgs/SNC/Untitled%204.png)
+![Untitled](ANESTESIOLOGIA/attachments/imgs/SNC/Untitled%204.png)
 
 - Em caso de TCE ou hematoma:
     - Mecanismo:
@@ -45,7 +45,7 @@
         - Como PPC = PAM - PIC, se a PIC tá muito alta, os neurônios não perfundem.
     - Medidas:
         
-        ![Untitled](anestesiologia/attachments/imgs/SNC/Untitled%205.png)
+        ![Untitled](ANESTESIOLOGIA/attachments/imgs/SNC/Untitled%205.png)
         
         - Venosas:
             - Cabeceira elevada em 30 graus para otimizar drenagem;
@@ -90,7 +90,7 @@
                 - CUIDADO COM ISQUEMIA CEREBRAL.
                 - PaCO2 entre 30 e 35, EtCO2 entre 25 e 30 mmHg;
                     
-                    ![Untitled](anestesiologia/attachments/imgs/SNC/Untitled%206.png)
+                    ![Untitled](ANESTESIOLOGIA/attachments/imgs/SNC/Untitled%206.png)
                     
             - Corticoides:
                 - Duas indicações apenas:
@@ -99,7 +99,7 @@
                 - Metilpred aumenta mortalidade.
             - Líquor:
                 
-                ![Untitled](anestesiologia/attachments/imgs/SNC/Untitled%207.png)
+                ![Untitled](ANESTESIOLOGIA/attachments/imgs/SNC/Untitled%207.png)
                 
                 - Estudos em cães;
                 - Não há dados em humanos;
@@ -108,4 +108,4 @@
             
             ## Questões:
             
-            ![image.png](anestesiologia/attachments/imgs/SNC/image.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/SNC/image.png)

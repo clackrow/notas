@@ -155,7 +155,7 @@
         - se > 3,5 mg/kg → letal;
         - Se FOP → ar nas coronárias → IAM;
         
-        ![image.png](anestesiologia/attachments/imgs/Ortopedia/image.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Ortopedia/image.png)
         
         - Mais sensível = ECO TE;
         - TTO:
@@ -170,7 +170,7 @@
 - Pré fixado se há contribuição de C4;
 - Pós fixado se há contribuição de T1;
     
-    ![image.png](anestesiologia/attachments/imgs/Ortopedia/image%201.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Ortopedia/image%201.png)
     
 - Bloqueios:
     - Interescalênico:

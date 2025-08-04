@@ -1,6 +1,6 @@
 # Neuroeixo:
 
-![image.png](anestesiologia/attachments/imgs/Neuroeixo/image.png)
+![image.png](ANESTESIOLOGIA/attachments/imgs/Neuroeixo/image.png)
 
 ## Anatomia:
 
@@ -15,7 +15,7 @@
     - Lombar tem processos mais horizontais e maiores espaços intervertebrais (maior ainda L5-S1);
 - Camadas:
     
-    ![image.png](anestesiologia/attachments/imgs/Neuroeixo/image%201.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Neuroeixo/image%201.png)
     
     - Ligamento supraespinhoso;
     - Ligamento interespinhoso;
@@ -121,7 +121,7 @@
         - Não é primeira escolha.
 - Distâncias entre pele e ligamento amarelo:
     
-    ![image.png](anestesiologia/attachments/imgs/Neuroeixo/image%202.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Neuroeixo/image%202.png)
     
     - Agulha tem 9cm;
     - Cateter tem 15 a 18cm;
@@ -153,7 +153,7 @@
         
     - Cornos do sacro marcam o início do hiato;
         
-        ![image.png](anestesiologia/attachments/imgs/Neuroeixo/image%203.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Neuroeixo/image%203.png)
         
     
 
@@ -260,7 +260,7 @@
 
 ## Testando bloqueio:
 
-![image.png](anestesiologia/attachments/imgs/Neuroeixo/image%204.png)
+![image.png](ANESTESIOLOGIA/attachments/imgs/Neuroeixo/image%204.png)
 
 - Neurônio tipo A
     - Alfa é o mais forte (motor);
@@ -279,7 +279,7 @@
     - Motor → Anestesia → Analgesia → Temperatura.
 - Dermátomos — CESÁRIA = T4!!!!!
 
-![image.png](anestesiologia/attachments/imgs/Neuroeixo/image%205.png)
+![image.png](ANESTESIOLOGIA/attachments/imgs/Neuroeixo/image%205.png)
 
 ## Altura do bloqueio:
 
@@ -289,7 +289,7 @@
             - Neste caso, baricidade = densidade do AL / LCR.
         - Dispersão da hiperbárica:
             
-            ![image.png](anestesiologia/attachments/imgs/Neuroeixo/image%206.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Neuroeixo/image%206.png)
             
         - Isobárica tem comportamento Hipobárico na temperatura corporal.
     - Dose:

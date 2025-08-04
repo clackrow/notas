@@ -125,7 +125,7 @@
         - Antagonizado por anticolinesterásicos.
         - Tipos:
             
-            ![image.png](anestesiologia/attachments/imgs/Bloqueio-neuromuscular/image.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Bloqueio-neuromuscular/image.png)
             
         - Eliminação:
             - Renal:
@@ -221,11 +221,11 @@
         - Sons de baixa frequência;
         - Indisponível comercialmente.
 
-![image.png](anestesiologia/attachments/imgs/Bloqueio-neuromuscular/image%201.png)
+![image.png](ANESTESIOLOGIA/attachments/imgs/Bloqueio-neuromuscular/image%201.png)
 
-![image.png](anestesiologia/attachments/imgs/Bloqueio-neuromuscular/image%202.png)
+![image.png](ANESTESIOLOGIA/attachments/imgs/Bloqueio-neuromuscular/image%202.png)
 
-![image.png](anestesiologia/attachments/imgs/Bloqueio-neuromuscular/image%203.png)
+![image.png](ANESTESIOLOGIA/attachments/imgs/Bloqueio-neuromuscular/image%203.png)
 
 - Padrões de estímulo:
     - Simples (ES);
@@ -269,19 +269,19 @@
             - 0,8 = capacidade respiratória;
             - 0,9 = extubação segura.
                 
-                ![image.png](anestesiologia/attachments/imgs/Bloqueio-neuromuscular/image%204.png)
+                ![image.png](ANESTESIOLOGIA/attachments/imgs/Bloqueio-neuromuscular/image%204.png)
                 
     - Estimulação tetânica:
         - Frequência de 50Hz em 5 segundos;
         - Intervalo mínimo de 2 segundos;
             
-            ![image.png](anestesiologia/attachments/imgs/Bloqueio-neuromuscular/image%205.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Bloqueio-neuromuscular/image%205.png)
             
-            ![image.png](anestesiologia/attachments/imgs/Bloqueio-neuromuscular/image%206.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Bloqueio-neuromuscular/image%206.png)
             
         - Profundidade do bloqueio:
             
-            ![image.png](anestesiologia/attachments/imgs/Bloqueio-neuromuscular/image%207.png)
+            ![image.png](ANESTESIOLOGIA/attachments/imgs/Bloqueio-neuromuscular/image%207.png)
             
     - Dupla salva:
         - 2 salvas 3 estímulos 50hz;
@@ -326,7 +326,7 @@
         - Bloqueio profundo (TOF = 0) não pode ser revertido com Neo!;
         - Bloqueio superficial (TOF > 0,9) também não, por conta dos efeitos deletérios da Neo!
         
-        ![image.png](anestesiologia/attachments/imgs/Bloqueio-neuromuscular/image%208.png)
+        ![image.png](ANESTESIOLOGIA/attachments/imgs/Bloqueio-neuromuscular/image%208.png)
         
         - Efeito teto = 0,07 mg / kg.
 - Específicos:

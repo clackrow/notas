@@ -12,7 +12,7 @@
         - Ramo direito re esquerdo.
     - Fibras de Purkinje.
         
-        ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled.png)
+        ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled.png)
         
 - Células:
     - Geração da corrente elétrica:
@@ -23,7 +23,7 @@
 - Despolarização:
     - Células de resposta lenta:
         
-        ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%201.png)
+        ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%201.png)
         
         - Canais 3Na2K:
             - Criam o gradiente elétrico.
@@ -37,7 +37,7 @@
             - Efluxo de K para repolarizar a célula.
     - Células de resposta rápida:
         
-        ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%202.png)
+        ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%202.png)
         
         - Potencial de repouso mais baixo (-90mV);
         - Canais de sódio rápidos:
@@ -54,9 +54,9 @@
     - Dão estrutura ao coração e suporta às válvulas;
 - Orientação de fibras:
     
-    ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%203.png)
+    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%203.png)
     
-    ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%204.png)
+    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%204.png)
     
     - Movimento torcional;
     - Hipertrofia cardíaca faz perder essa conformação.
@@ -67,26 +67,26 @@
         - Formato de meia lua.
     - Septo:
         
-        ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%205.png)
+        ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%205.png)
         
         - Vai em direção ao VE na sístole, mantendo a conformação do VE em círculo.
         - Suporte estrutural ao VD;
         - É como se o VD precisasse da ajuda do VE (pelo septo) para contrair.
 - Coronárias:
     
-    ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%206.png)
+    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%206.png)
     
     - Endocardio mais susceptível a isquemia (calibre menor dos vasos);
     - Fluxo de 5% do débito cardíaco;
     - Lei de Poiseuille:
         
-        ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%207.png)
+        ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%207.png)
         
         - Nas coronárias:
             
-            ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%208.png)
+            ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%208.png)
             
-            ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%209.png)
+            ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%209.png)
             
             - Em uma insuficiência aórtica, diminui PD (pressão diastólica) e aumenta PDF VE (pressão diastólica final de VE), consequentemente diminuindo a perfusão;
             - O principal regulador do FSC é a resistência variável pelo músculo liso das coronárias!!!!!!
@@ -114,39 +114,39 @@
     - Contração atrial:
         - Para terminar de encher o ventrículo.
         
-        ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%2010.png)
+        ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%2010.png)
         
 - Diagrama de pressão por volume:
     
-    ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%2011.png)
+    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%2011.png)
     
 - Lei de LaPlace:
     - Tensão da parede do VE depende da pressão do VE e do seu raio e é inversamente proporcional à espessura da parede.
 
 ## Diagrama PV:
 
-![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%2012.png)
+![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%2012.png)
 
-![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%2013.png)
+![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%2013.png)
 
-![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%2014.png)
+![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%2014.png)
 
-![Pegadinha!! Pós carga está igual!! Temos que analisar o ÂNGULO!!!.](anestesiologia/attachments/imgs/Cardio/Untitled%2015.png)
+![Pegadinha!! Pós carga está igual!! Temos que analisar o ÂNGULO!!!.](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%2015.png)
 
 Pegadinha!! Pós carga está igual!! Temos que analisar o ÂNGULO!!!.
 
-![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%2016.png)
+![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%2016.png)
 
 - Elastância vs complacência:
     - Muito elástico = alta elastância e baixa complacência;
     - Pouco elástico = baixa elastância e alta complacência;
     - Elastância é o contrário de complacência.
     
-    ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%2017.png)
+    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%2017.png)
     
     - MACETE FINAL!!!!
         
-        ![Untitled](anestesiologia/attachments/imgs/Cardio/Untitled%2018.png)
+        ![Untitled](ANESTESIOLOGIA/attachments/imgs/Cardio/Untitled%2018.png)
         
     
 

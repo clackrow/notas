@@ -6,11 +6,11 @@
 - Depuração por rins e pulmões;
 - Sistema tampão:
     
-    ![image.png](anestesiologia/attachments/imgs/Equilíbrio-ácido-básico/image.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Equilíbrio-ácido-básico/image.png)
     
 - Equação de Anderson-Hasselblah:
     
-    ![image.png](anestesiologia/attachments/imgs/Equilíbrio-ácido-básico/image%201.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Equilíbrio-ácido-básico/image%201.png)
     
 - Compensação:
     - Sempre acontece no mesmo sentido do distúrbio primário;
@@ -39,7 +39,7 @@
         1. Varia de -3 a +3;
         2. Se aumentado, indica cronicidade
 
-![image.png](anestesiologia/attachments/imgs/Equilíbrio-ácido-básico/image%202.png)
+![image.png](ANESTESIOLOGIA/attachments/imgs/Equilíbrio-ácido-básico/image%202.png)
 
 ## Normograma:
 
@@ -75,7 +75,7 @@
 - Abordagem quantitativa / físico-química;
 - Usa um tal de SID + Atot + paCO2;
     
-    ![image.png](anestesiologia/attachments/imgs/Equilíbrio-ácido-básico/image%203.png)
+    ![image.png](ANESTESIOLOGIA/attachments/imgs/Equilíbrio-ácido-básico/image%203.png)
     
 - Auto ionização da água;
 - SID = strong ion difference;
