@@ -11,3 +11,11 @@ DPF/CAC/PR - DELEGACIA DE POLÍCIA FEDERAL EM CASCAVEL - DPF/CAC/PR
 RUA PARANÁ, 1264, CENTRO  
 CASCAVEL/ PR  
 CEP: 85812-010
+
+## LISTA DE DOCUMENTOS:
+- [ ] CPF válido
+- [ ] Documento de identificação
+- [ ] Passaporte anterior ou Ocorrência
+- [ ] Estar regular com as obrigações eleitorais
+- [ ] Estar regular com o serviço militar obrigatório
+- [ ] Atenção: outros documentos poderão ser solicitados
