@@ -6,12 +6,7 @@
 5. Para crianças menores de 5 (cinco) anos de idade deverá ser apresentada 1 (uma) fotografia facial, tamanho 5X7, recente e que identifique plenamente o menor, colorida, sem data, em fundo branco.
 
 ## HORÁRIO:
-08:42
-DPF/CAC/PR - DELEGACIA DE POLÍCIA FEDERAL EM CASCAVEL - DPF/CAC/PR  
-RUA PARANÁ, 1264, CENTRO  
-CASCAVEL/ PR  
-CEP: 85812-010
-
+Patio Batel 21/08 as 10:30
 ## LISTA DE DOCUMENTOS:
 - [x] CPF válido
 - [x] Documento de identificação
