@@ -10,6 +10,6 @@ Patio Batel 21/08 as 10:30
 ## LISTA DE DOCUMENTOS:
 - [x] CPF válido
 - [x] Documento de identificação
-- [ ] Estar regular com as obrigações eleitorais
-- [ ] Estar regular com o serviço militar obrigatório
+- [x] Estar regular com as obrigações eleitorais
+- [x] Estar regular com o serviço militar obrigatório
 - [ ] Atenção: outros documentos poderão ser solicitados
