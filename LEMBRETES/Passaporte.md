@@ -13,3 +13,7 @@ Patio Batel 21/08 as 10:30
 - [x] Estar regular com as obrigações eleitorais
 - [x] Estar regular com o serviço militar obrigatório
 - [ ] Atenção: outros documentos poderão ser solicitados
+
+## PÓS AGENDAMENTO: 
+- Protocolo: 0000375603
+- Data prevista: 29/08
