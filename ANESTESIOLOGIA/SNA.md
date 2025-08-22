@@ -13,7 +13,7 @@
     - Glândulas sudoríparas e baço têm somente inervação simpática.
 - Dois neurônios:
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/SNA/Untitled.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/SNA/Untitled.png)
     
     - Primeiro / Pré ganglionar:
         - Rápido, mielinizado.
@@ -36,7 +36,7 @@
 
 ## Neurotransmissores:
 
-![Untitled](ANESTESIOLOGIA/attachments/imgs/SNA/Untitled%201.png)
+![Untitled](ANESTESIOLOGIA/imgs/SNA/Untitled%201.png)
 
 - Tipos:
     - Adrenérgicos:
@@ -73,7 +73,7 @@
 
 ## Ações do SNA:
 
-![Untitled](ANESTESIOLOGIA/attachments/imgs/SNA/Untitled%202.png)
+![Untitled](ANESTESIOLOGIA/imgs/SNA/Untitled%202.png)
 
 - Parassimpático:
     - Quase tudo nervo vago, mas também III, VII, IX.
@@ -98,7 +98,7 @@
     - Subunidade alfa se liga à ACh.
 - Muscarínicos — acoplados à proteína G (caos completo, foda-se):
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/SNA/Untitled%203.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/SNA/Untitled%203.png)
     
     - Subtipos:
         - M1 - estimula (proteína Gq):

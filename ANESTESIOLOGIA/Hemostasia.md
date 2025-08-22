@@ -10,7 +10,7 @@
         - Glicoproteína Ia e IIa → ligação fraca às plaquetas;
         - FvW se liga ao colágeno e às plaquetas na glicoproteína Ib
         
-        ![image.png](ANESTESIOLOGIA/attachments/imgs/Hemostasia/image.png)
+        ![image.png](ANESTESIOLOGIA/imgs/Hemostasia/image.png)
         
     - Degranulação plaquetária:
         - Grânulos alfa:
@@ -63,7 +63,7 @@
                 - Dabigatrana & Cia
         - Fator XIII gruda essa malha por cross-linking.
 
-![image.png](ANESTESIOLOGIA/attachments/imgs/Hemostasia/image%201.png)
+![image.png](ANESTESIOLOGIA/imgs/Hemostasia/image%201.png)
 
 - *** dependentes da vitamina K — tem que decorar:
     - II, VII, IX, X, proteína C, proteína S.

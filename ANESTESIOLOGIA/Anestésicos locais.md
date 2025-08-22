@@ -2,11 +2,11 @@
 
 ## Como funcionam:
 
-![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-locais/image.png)
+![image.png](ANESTESIOLOGIA/imgs/Anestésicos-locais/image.png)
 
 ![teste](./attachments/Pasted image 20250725111355.png)
 
-![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-locais/image%201.png)
+![image.png](ANESTESIOLOGIA/imgs/Anestésicos-locais/image%201.png)
 
 - Perineuro é a principal barreira de difusão;
 - Tipos de fibras:
@@ -59,7 +59,7 @@
 
 ## Estrutura molecular:
 
-![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-locais/image%202.png)
+![image.png](ANESTESIOLOGIA/imgs/Anestésicos-locais/image%202.png)
 
 - Estrutura básica:
     - Anel aromático:
@@ -90,7 +90,7 @@
     - Todas essas características estão relacionadas com a lipossolubilidade.
 - Início de ação ou latência:
     - Muito relacionado ao pH e pKa;
-      ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-locais/image%203.png)
+      ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-locais/image%203.png)
     - Comparação:
         - Lidocaína (pKa 7,7) se ioniza menos que Bupi (pKa 8,1) em pH 7,4.
     - Concentração também influencia.
@@ -134,7 +134,7 @@
         - Retardam a condução do estímulo cardíaco;
             - Alargamento de intervalo PR e QRS.
         - Ligam durante sístole e desligam durante diástole:
-          ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-locais/image%204.png)
+          ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-locais/image%204.png)
             - Lembra que bloqueia canais abertos e inativados.
         - Exemplo:
             - Lidocaína tem fast in (entra rápido), mas também sai rápido, e dá tempo de se desligar;
@@ -165,7 +165,7 @@
         - Dextrógira (+);
         - Levógira (-).
     - Configuração absoluta:
-      ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-locais/image%205.png)
+      ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-locais/image%205.png)
         - É só a posição do radical em volta do carbono quiral;
         - Não tem relação com desvio do plano de luz polarizada.
     - Diferenças entre os anestésicos:
@@ -174,6 +174,6 @@
             - Menos tóxicos;
             - Mais potentes;
             - Mais duradouros.
-              ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-locais/image%206.png)
+              ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-locais/image%206.png)
 - Tratamento da intoxicação:
     -

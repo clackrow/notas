@@ -40,12 +40,12 @@
 
 - RR é a razão entre as incidências;
     
-    ![image.png](ANESTESIOLOGIA/attachments/imgs/Metodologia-científica/image.png)
+    ![image.png](ANESTESIOLOGIA/imgs/Metodologia-científica/image.png)
     
 - OR é pra retrospectivos:
     - CoORte;
         
-        ![image.png](ANESTESIOLOGIA/attachments/imgs/Metodologia-científica/image%201.png)
+        ![image.png](ANESTESIOLOGIA/imgs/Metodologia-científica/image%201.png)
         
 
 ## Variáveis e testes estatísticos:
@@ -82,4 +82,4 @@
     - Anova:
         - Parecido com T de student, mas analisa mais de 2 grupos com distribuição normal.
 
-![image.png](ANESTESIOLOGIA/attachments/imgs/Metodologia-científica/image%202.png)
+![image.png](ANESTESIOLOGIA/imgs/Metodologia-científica/image%202.png)

@@ -133,7 +133,7 @@
         - No obeso, aumenta o peso, mas não o volume sanguíneo, logo, a IC pode fazer sobredose;
         - O que podemos fazer é usar peso predito pela altura.
             
-            ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-venosos/image.png)
+            ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-venosos/image.png)
             
 - Morfina:
     - Metabolismo por glicorunidação;
@@ -142,12 +142,12 @@
     - Farmacocinética lenta;
     - Libera histamina.
         
-        ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-venosos/image%201.png)
+        ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-venosos/image%201.png)
         
 - Comparações:
     - Potências:
         
-        ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-venosos/image%202.png)
+        ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-venosos/image%202.png)
         
     - Doentes renais:
         - Cuidar com Morfina, Meperidina, Hidromorfona;
@@ -259,7 +259,7 @@
         - MV de eliminação = 4 a 6 horas;
         - MV de redistribuição = 1 a 2 minutos;
             
-            ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-venosos/image%203.png)
+            ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-venosos/image%203.png)
             
 - Síndrome de infusão de propofol:
     - Dose > 4 mg/kg/h por mais de 48h;

@@ -20,7 +20,7 @@
         - Enflurano tem o cloro Externo;
         - Isoflurano tem o cloro interno.
             
-            ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-inalatórios/image.png)
+            ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-inalatórios/image.png)
             
     - Sevoflurano:
         - Seven flúors;
@@ -37,11 +37,11 @@
 - Exemplo:
     - Coeficiente partição sangue-gás do isoflurano:
         
-        ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-inalatórios/image%201.png)
+        ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-inalatórios/image%201.png)
         
     - Coeficiente cérebro sangue do isoflurano:
         
-        ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-inalatórios/image%202.png)
+        ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-inalatórios/image%202.png)
         
 - Tem que decorar a de cada um deles;
 - Quanto mais lipossolúvel, maior a potência;
@@ -79,7 +79,7 @@
         - O sangue consegue entregar maior concentração na biofase;
 - QUANTO MENOR O COEFICIENTE, MAIOR A VELOCIDADE PARA EQUILÍBRIO!!!
     
-    ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-inalatórios/image%203.png)
+    ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-inalatórios/image%203.png)
     
 
 ## Farmacocinética:
@@ -91,7 +91,7 @@
         - Meia vida de equilíbrio = CT * 0,693.
         - Quanto maior a constante, maior o tempo para equilíbrio.
             
-            ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-inalatórios/image%204.png)
+            ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-inalatórios/image%204.png)
             
 - Fração inspirada para a fração alveolar:
     - Aumentar volume minuto acelera equilíbrio;
@@ -99,7 +99,7 @@
     - Respira fundo e solta;
     - Volume minuto influencia mais em anestésicos com maior coeficiente de partição;
         
-        ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-inalatórios/image%205.png)
+        ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-inalatórios/image%205.png)
         
         - Mas repare que o tempo de equilíbrio do Halotano ainda é menor.
 - Captação alveolar:
@@ -109,7 +109,7 @@
             - Quanto maior o DC, maior a captação, maior o tempo de equilíbrio;
             - Anestésico solúvel sofre mais com aumento do DC.
                 
-                ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-inalatórios/image%206.png)
+                ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-inalatórios/image%206.png)
                 
         - Gradiente de pressão parcial.
 - Fatores bizarros que podem influenciar:
@@ -135,7 +135,7 @@
         - Lembrar das potências:
             - Macete = hipóxia é inaceitável, sempre dê oxigênio.
                 
-                ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-inalatórios/image%207.png)
+                ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-inalatórios/image%207.png)
                 
 - Eliminação:
     - Semelhante a absorção;
@@ -336,7 +336,7 @@
 - Inibição da metionina sintase:
     - Exclusividade do N2O;
         
-        ![image.png](ANESTESIOLOGIA/attachments/imgs/Anestésicos-inalatórios/image%208.png)
+        ![image.png](ANESTESIOLOGIA/imgs/Anestésicos-inalatórios/image%208.png)
         
     - Pode inibir a eritropoiese e anemia megaloblástica;
     - Pode fazer parestesia anestésica;

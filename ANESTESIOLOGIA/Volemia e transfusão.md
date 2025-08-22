@@ -21,7 +21,7 @@
 - Movimento da água:
     - Representação gráfica:
         
-        ![image.png](ANESTESIOLOGIA/attachments/imgs/Volemia-e-transfusão/image.png)
+        ![image.png](ANESTESIOLOGIA/imgs/Volemia-e-transfusão/image.png)
         
 
 ## Cristaloides:
@@ -120,7 +120,7 @@
 
 - Processamento do sangue:
     
-    ![image.png](ANESTESIOLOGIA/attachments/imgs/Volemia-e-transfusão/image%201.png)
+    ![image.png](ANESTESIOLOGIA/imgs/Volemia-e-transfusão/image%201.png)
     
     - Doador doa SANGUE TOTAL;
     - Centrifugação:
@@ -212,7 +212,7 @@
                 - Plq < 10k.
             - Procedimento invasivo:
                 
-                ![image.png](ANESTESIOLOGIA/attachments/imgs/Volemia-e-transfusão/image%202.png)
+                ![image.png](ANESTESIOLOGIA/imgs/Volemia-e-transfusão/image%202.png)
                 
         - Se > 100k, raramente transfunte, se < 50k, geralmente transfunde.
 - **PRESCRIÇÃO:**

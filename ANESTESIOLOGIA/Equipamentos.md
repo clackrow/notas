@@ -1,10 +1,10 @@
 # Equipamentos
 
-![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled.png)
+![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled.png)
 
-![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%201.png)
+![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%201.png)
 
-![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%202.png)
+![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%202.png)
 
 ## PANI:
 
@@ -52,12 +52,12 @@
     - Sistema pouco amortecido (underdamping);
         - Superestima sistólica e subestima diastólica;
             
-            ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%203.png)
+            ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%203.png)
             
     - Sistema muito amortecido (overdamping):
         - Subestima sistólica e superestima diastólica.
             
-            ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%204.png)
+            ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%204.png)
             
 - Coeficiente de amortecimento:
     - Rapidez com que o sistema retorna ao repouso.
@@ -109,7 +109,7 @@
 - Beer lambert:
     - Espectrometria;
         
-        ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%205.png)
+        ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%205.png)
         
     - Mais confiável entre 70 a 100%;
     - Spo2 de 90 = paO2 de 60mmHg;
@@ -129,7 +129,7 @@
         - Não interfere muito.
 - Equação do gás alveolar:
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%206.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%206.png)
     
 
 ## Capnógrafo:
@@ -143,31 +143,31 @@
         - Melhor para crianças.
 - Análise de curva:
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%207.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%207.png)
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%208.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%208.png)
     
 - Diagnósticos:
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%209.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%209.png)
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%2010.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%2010.png)
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%2011.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%2011.png)
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%2012.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%2012.png)
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%2013.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%2013.png)
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%2014.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%2014.png)
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%2015.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%2015.png)
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%2016.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%2016.png)
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%2017.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%2017.png)
     
-    ![Untitled](ANESTESIOLOGIA/attachments/imgs/Equipamentos/Untitled%2018.png)
+    ![Untitled](ANESTESIOLOGIA/imgs/Equipamentos/Untitled%2018.png)
     
     ![Untitled](Untitled%2019.png)
     

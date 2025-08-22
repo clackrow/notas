@@ -202,4 +202,4 @@
     - NÃO AJUDA DANTROLENE;
     - Evitar betabloq
 
-![image.png](ANESTESIOLOGIA/attachments/imgs/Complicações-gerais/image.png)
+![image.png](ANESTESIOLOGIA/imgs/Complicações-gerais/image.png)
