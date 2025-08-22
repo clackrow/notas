@@ -33,7 +33,7 @@
     - Capacidade de fechamento:
         - Volume abaixo do qual as VA entram em colapso;
             
-            ![image.png](ANESTESIOLOGIA/imgs/Torácica/image.png)
+            ![image.png](ANESTESIOLOGIA/IMGS/Torácica/image.png)
             
 - Medidas dinâmicas:
     - VEF1:
