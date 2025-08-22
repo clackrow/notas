@@ -135,4 +135,3 @@
 Oi som
 
 Hello from tablet!
-Tese syncthing
