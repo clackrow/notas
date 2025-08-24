@@ -6,7 +6,7 @@
     - Trazer O2, levar CO2.
 - Conteúdo de O2 para cada 100ml:
     
-    ![image.png](ANESTESIOLOGIA/imgs/Respiratório/image.png)
+    ![image.png](ANESTESIOLOGIA/imgs/Respiratorio/image.png)
     
 - Efeito Bohr:
     

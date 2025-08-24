@@ -35,14 +35,14 @@
     - Volátil é diferente de gasoso;
     - Pressão de vapor só depende da temperatura:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image.png)
+        ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image.png)
         
 
 ## Vaporizadores:
 
 - **Vaporizador de bypass variável:**
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%201.png)
+    ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%201.png)
     
     - Mais comum;
     - Vaporizador específico para cada anestésico;
@@ -59,13 +59,13 @@
             - Concentração inferior à solicitada.
     - Concentração do gás carreador:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%202.png)
+        ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%202.png)
         
     - Inclinação do vaporizador:
         - Acaba indo líquido para a câmara;
         - Faz sobredose;
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%203.png)
+        ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%203.png)
         
     - Overfilling:
         - Sobredose;
@@ -85,7 +85,7 @@
     - Vaporizador específico para compensar essas variáveis;
     - Mantém o Desflurano a 39 graus celcius por conta da pressão de vapor;
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%204.png)
+        ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%204.png)
         
 
 ## Tipos de ventiladores:
@@ -99,7 +99,7 @@
         - Turbina.
 - **Fole**:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%205.png)
+    ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%205.png)
     
     - Repare que o balão não faz parte do circuito quando em ventilação mecânica;
     - Invólucro rígido com gás motor;
@@ -107,7 +107,7 @@
     - Fole empurra ar para o circuito do paciente;
     - Fole pode ser ascendente ou descendente;
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%206.png)
+        ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%206.png)
         
     - Descendente é mais perigoso, pq não há feedback visual para quando há vazamento;
     - Furo no fole:
@@ -115,13 +115,13 @@
         - Dilui a FiO2 e o inalatório.
 - **Refletor**:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%207.png)
+    ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%207.png)
     
     - No refletor cabe todo o volume corrente do paciente;
     - Quando há vazamento, o sistema se compensa sozinho, mas isso acaba diluindo o anestésico.
 - **Pistão**:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%208.png)
+    ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%208.png)
     
     - Bolsa faz parte do circuito e reserva gás fresco que não consegue passar ao paciente na inspiração por conta da válvula de decoupling (desacoplamento);
     - Bolsa enche na inspiração (junto com pulmão);
@@ -130,7 +130,7 @@
     - Melhor precisão (baixa complacência da câmara).
 - **Turbina**:
     
-    ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%209.png)
+    ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%209.png)
     
     - Bolsa é o feedback visual e esvazia na inspiração;
     - Sem muitas vantagens.
@@ -152,7 +152,7 @@
     - Tipos:
         - Mapleson A:
             
-            ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%2010.png)
+            ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%2010.png)
             
             - Fluxo de gás perto do anestesista;
             - Ar que sai do paciente vaza pela pop off;
@@ -162,29 +162,29 @@
             - É o pior de todos para ventilação controlada.
         - Mapleson B e C:
             
-            ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%2011.png)
+            ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%2011.png)
             
-            ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%2012.png)
+            ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%2012.png)
             
             - Não são usados para nada.
     - Mapleson D:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%2013.png)
+        ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%2013.png)
         
         - A melhor para ventilação controlada;
         - D de Deus no controle (controlada);
         - FGF = 2 a 3x o VM.
     - Mapleson E:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%2014.png)
+        ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%2014.png)
         
     - Mapleson F:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%2015.png)
+        ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%2015.png)
         
     - Circuito de Bain:
         
-        ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%2016.png)
+        ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%2016.png)
         
         - Auxilia com a manutenção da temperatura dos gases.
 - Vantagens e desvantagens do circuito de mapleson:
@@ -206,14 +206,14 @@
     - **Cal sodada:**
         - Hidróxido de cálcio — Ca(OH)2;
             
-            ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%2017.png)
+            ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%2017.png)
             
         - Reação lenta, precisa de um catalisador (bases fortes):
             - Hidróxido de sódio;
             - Hidróxido de potássio.
         - Reação verdadeira:
             
-            ![image.png](ANESTESIOLOGIA/IMGS/Sistemas-de-administração/image%2018.png)
+            ![image.png](ANESTESIOLOGIA/IMGS/Sitemas-de-administração/image%2018.png)
             
         - Componentes:
             - Hidróxido de cálcio (80%) —- principal;
